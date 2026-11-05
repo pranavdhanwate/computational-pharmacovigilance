@@ -1,0 +1,1501 @@
+primary_id,case_id,drug_name,preferred_term,serious,outcome,patient_age,patient_sex,report_year
+FAERS_000001,1000000,Glucophage,Rash,Y,Other serious,71,M,2022
+FAERS_000002,1000001,rosuvastatin,Rhabdomyolysis,Y,Recovered,83,M,2025
+FAERS_000003,1000002,simvastatin,Myalgia,Y,Recovered,54,F,2023
+FAERS_000004,1000003,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,49,UNK,2022
+FAERS_000005,1000004,Tylenol,Angioedema,Y,Hospitalization,54,F,2022
+FAERS_000006,1000005,rosuvastatin,Hepatic failure,Y,Hospitalization,63,F,2022
+FAERS_000007,1000006,paracetamol,Hypoglycaemia,Y,Recovered,61,M,2025
+FAERS_000008,1000007,atorvastatin,Gastrointestinal haemorrhage,Y,Other serious,47,F,2022
+FAERS_000009,1000008,apixaban,Dizziness,Y,Hospitalization,65,F,2021
+FAERS_000010,1000009,metformin,Alanine aminotransferase increased,N,Recovered,74,M,2024
+FAERS_000011,1000010,rivaroxaban,Alanine aminotransferase increased,N,Recovered,66,M,2025
+FAERS_000012,1000011,canagliflozin,Diabetic ketoacidosis,Y,Recovered,56,M,2022
+FAERS_000013,1000012,Crestor,Tendon rupture,N,Recovered,64,F,2025
+FAERS_000014,1000013,Lipitor,Rhabdomyolysis,Y,Recovered,70,F,2024
+FAERS_000015,1000014,ibuprofen,Rhabdomyolysis,Y,Hospitalization,66,F,2024
+FAERS_000016,1000015,lisinopril,Headache,N,Recovered,60,F,2021
+FAERS_000017,1000016,Tylenol,Acute kidney injury,N,Recovered,95,F,2021
+FAERS_000018,1000017,Cipro,Angioedema,Y,Recovered,47,F,2023
+FAERS_000019,1000018,rivaroxaban,Alanine aminotransferase increased,N,Recovered,53,M,2022
+FAERS_000020,1000019,Invokana,Diabetic ketoacidosis,Y,Other serious,57,M,2023
+FAERS_000021,1000020,Lipitor,Myalgia,N,Recovered,49,F,2023
+FAERS_000022,1000021,empagliflozin,Diabetic ketoacidosis,Y,Life-threatening,54,F,2022
+FAERS_000023,1000022,Jardiance,Hepatic failure,Y,Hospitalization,61,M,2022
+FAERS_000024,1000023,Levaquin,Hypoglycaemia,N,Recovered,38,M,2022
+FAERS_000025,1000024,Tylenol,Tendon rupture,N,Recovered,66,M,2024
+FAERS_000026,1000025,Xarelto,Gastrointestinal haemorrhage,Y,Other serious,61,F,2023
+FAERS_000027,1000026,ibuprofen,Rhabdomyolysis,Y,Hospitalization,62,F,2025
+FAERS_000028,1000027,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,45,F,2022
+FAERS_000029,1000028,Jardiance,Acute kidney injury,Y,Recovered,51,F,2025
+FAERS_000030,1000029,apixaban,Angioedema,Y,Hospitalization,57,F,2022
+FAERS_000031,1000030,canagliflozin,Fatigue,N,Recovered,53,F,2024
+FAERS_000032,1000031,ibuprofen,Nausea,N,Recovered,50,F,2025
+FAERS_000033,1000032,metformin,Diabetic ketoacidosis,Y,Hospitalization,69,UNK,2022
+FAERS_000034,1000033,atorvastatin,Alanine aminotransferase increased,Y,Hospitalization,59,M,2024
+FAERS_000035,1000034,paracetamol,Nausea,N,Recovered,67,F,2021
+FAERS_000036,1000035,Plavix,Gastrointestinal haemorrhage,Y,Life-threatening,75,F,2025
+FAERS_000037,1000036,metformin,Myalgia,Y,Life-threatening,80,F,2025
+FAERS_000038,1000037,rosuvastatin,Rhabdomyolysis,Y,Life-threatening,43,M,2025
+FAERS_000039,1000038,lisinopril,Diabetic ketoacidosis,Y,Hospitalization,70,F,2025
+FAERS_000040,1000039,Advil,Rhabdomyolysis,Y,Recovered,34,M,2022
+FAERS_000041,1000040,ibuprofen,Nausea,N,Recovered,45,M,2022
+FAERS_000042,1000041,metformin,Fatigue,Y,Life-threatening,81,F,2023
+FAERS_000043,1000042,levofloxacin,Alanine aminotransferase increased,Y,Other serious,45,M,2023
+FAERS_000044,1000043,Cipro,Myalgia,N,Recovered,68,M,2024
+FAERS_000045,1000044,apixaban,Alanine aminotransferase increased,N,Recovered,64,M,2021
+FAERS_000046,1000045,Invokana,Diabetic ketoacidosis,Y,Hospitalization,63,F,2024
+FAERS_000047,1000046,Zocor,Gastrointestinal haemorrhage,Y,Recovered,62,F,2024
+FAERS_000048,1000047,Prinivil,Dizziness,Y,Life-threatening,52,M,2024
+FAERS_000049,1000048,Plavix,Gastrointestinal haemorrhage,Y,Life-threatening,86,M,2025
+FAERS_000050,1000049,ibuprofen,Nausea,N,Recovered,52,F,2024
+FAERS_000051,1000050,Zocor,Acute kidney injury,N,Recovered,63,M,2021
+FAERS_000052,1000051,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,53,M,2025
+FAERS_000053,1000052,canagliflozin,Diabetic ketoacidosis,Y,Recovered,71,M,2023
+FAERS_000054,1000053,apixaban,Tendon rupture,Y,Other serious,70,F,2022
+FAERS_000055,1000054,Lipitor,Alanine aminotransferase increased,N,Recovered,59,F,2025
+FAERS_000056,1000055,levofloxacin,Rhabdomyolysis,Y,Other serious,62,M,2023
+FAERS_000057,1000056,Crestor,Nausea,Y,Recovered,55,M,2024
+FAERS_000058,1000057,Jardiance,Dizziness,N,Recovered,64,F,2024
+FAERS_000059,1000058,rosuvastatin,Alanine aminotransferase increased,N,Recovered,50,F,2024
+FAERS_000060,1000059,ciprofloxacin,Tendon rupture,N,Recovered,54,M,2023
+FAERS_000061,1000060,Zocor,Rhabdomyolysis,Y,Life-threatening,73,M,2025
+FAERS_000062,1000061,ciprofloxacin,Alanine aminotransferase increased,Y,Other serious,73,F,2023
+FAERS_000063,1000062,canagliflozin,Hypoglycaemia,N,Recovered,88,M,2022
+FAERS_000064,1000063,Xarelto,Gastrointestinal haemorrhage,Y,Hospitalization,76,F,2024
+FAERS_000065,1000064,Advil,Acute kidney injury,N,Recovered,66,F,2025
+FAERS_000066,1000065,apixaban,Alanine aminotransferase increased,Y,Hospitalization,85,F,2023
+FAERS_000067,1000066,Xarelto,Tendon rupture,N,Recovered,39,F,2025
+FAERS_000068,1000067,Levaquin,Headache,N,Recovered,63,F,2023
+FAERS_000069,1000068,Tylenol,Gastrointestinal haemorrhage,Y,Hospitalization,47,M,2023
+FAERS_000070,1000069,levofloxacin,Dizziness,N,Recovered,73,F,2024
+FAERS_000071,1000070,Glucophage,Alanine aminotransferase increased,N,Recovered,54,M,2021
+FAERS_000072,1000071,Advil,Hypoglycaemia,N,Recovered,42,UNK,2023
+FAERS_000073,1000072,ciprofloxacin,Fatigue,Y,Hospitalization,59,F,2021
+FAERS_000074,1000073,Cipro,Tendon rupture,N,Recovered,65,F,2023
+FAERS_000075,1000074,Invokana,Diabetic ketoacidosis,Y,Life-threatening,92,M,2022
+FAERS_000076,1000075,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,50,M,2023
+FAERS_000077,1000076,Xarelto,Rhabdomyolysis,Y,Hospitalization,52,F,2022
+FAERS_000078,1000077,Crestor,Myalgia,N,Recovered,39,M,2023
+FAERS_000079,1000078,empagliflozin,Myalgia,N,Recovered,44,M,2024
+FAERS_000080,1000079,Cipro,Tendon rupture,N,Recovered,64,F,2023
+FAERS_000081,1000080,Xarelto,Rhabdomyolysis,Y,Other serious,27,M,2021
+FAERS_000082,1000081,Levaquin,Tendon rupture,N,Recovered,49,UNK,2023
+FAERS_000083,1000082,Zocor,Diabetic ketoacidosis,Y,Recovered,57,M,2025
+FAERS_000084,1000083,Lipitor,Myalgia,N,Recovered,39,M,2021
+FAERS_000085,1000084,atorvastatin,Diabetic ketoacidosis,Y,Other serious,78,F,2023
+FAERS_000086,1000085,Eliquis,Rash,N,Recovered,62,M,2024
+FAERS_000087,1000086,atorvastatin,Acute kidney injury,N,Recovered,76,M,2023
+FAERS_000088,1000087,paracetamol,Rhabdomyolysis,Y,Recovered,37,F,2023
+FAERS_000089,1000088,Tylenol,Alanine aminotransferase increased,N,Recovered,38,M,2025
+FAERS_000090,1000089,Prinivil,Angioedema,Y,Life-threatening,61,F,2022
+FAERS_000091,1000090,Plavix,Gastrointestinal haemorrhage,Y,Life-threatening,46,M,2025
+FAERS_000092,1000091,levofloxacin,Diabetic ketoacidosis,Y,Hospitalization,68,M,2022
+FAERS_000093,1000092,ibuprofen,Rhabdomyolysis,Y,Hospitalization,31,F,2021
+FAERS_000094,1000093,Xarelto,Gastrointestinal haemorrhage,Y,Hospitalization,69,F,2024
+FAERS_000095,1000094,Invokana,Alanine aminotransferase increased,N,Recovered,64,UNK,2023
+FAERS_000096,1000095,lisinopril,Acute kidney injury,Y,Hospitalization,51,F,2024
+FAERS_000097,1000096,Tylenol,Rash,N,Recovered,68,M,2025
+FAERS_000098,1000097,Tylenol,Headache,N,Recovered,71,F,2022
+FAERS_000099,1000098,Levaquin,Tendon rupture,N,Recovered,51,F,2023
+FAERS_000100,1000099,Crestor,Myalgia,N,Recovered,57,M,2023
+FAERS_000101,1000100,metformin,Hypoglycaemia,N,Recovered,56,M,2024
+FAERS_000102,1000101,clopidogrel,Gastrointestinal haemorrhage,Y,Hospitalization,52,F,2022
+FAERS_000103,1000102,simvastatin,Angioedema,Y,Life-threatening,73,M,2025
+FAERS_000104,1000103,simvastatin,Headache,N,Recovered,64,F,2023
+FAERS_000105,1000104,Prinivil,Gastrointestinal haemorrhage,Y,Recovered,70,F,2024
+FAERS_000106,1000105,simvastatin,Fatigue,N,Recovered,50,F,2022
+FAERS_000107,1000106,simvastatin,Dizziness,Y,Hospitalization,89,M,2024
+FAERS_000108,1000107,Jardiance,Fatigue,N,Recovered,89,M,2024
+FAERS_000109,1000108,Levaquin,Hypoglycaemia,N,Recovered,64,M,2021
+FAERS_000110,1000109,ibuprofen,Alanine aminotransferase increased,Y,Hospitalization,63,M,2024
+FAERS_000111,1000110,Advil,Diabetic ketoacidosis,Y,Hospitalization,66,M,2025
+FAERS_000112,1000111,metformin,Nausea,N,Recovered,91,M,2023
+FAERS_000113,1000112,Plavix,Rhabdomyolysis,Y,Other serious,66,M,2023
+FAERS_000114,1000113,Tylenol,Gastrointestinal haemorrhage,Y,Hospitalization,58,F,2024
+FAERS_000115,1000114,paracetamol,Alanine aminotransferase increased,N,Recovered,85,F,2025
+FAERS_000116,1000115,Zocor,Rhabdomyolysis,Y,Recovered,61,M,2023
+FAERS_000117,1000116,Xarelto,Gastrointestinal haemorrhage,Y,Recovered,80,M,2022
+FAERS_000118,1000117,atorvastatin,Rhabdomyolysis,Y,Hospitalization,55,F,2023
+FAERS_000119,1000118,Zocor,Hepatic failure,Y,Other serious,64,M,2023
+FAERS_000120,1000119,canagliflozin,Nausea,Y,Other serious,73,F,2024
+FAERS_000121,1000120,canagliflozin,Diabetic ketoacidosis,Y,Hospitalization,53,M,2021
+FAERS_000122,1000121,Jardiance,Acute kidney injury,Y,Hospitalization,80,M,2022
+FAERS_000123,1000122,Plavix,Rash,N,Recovered,47,F,2023
+FAERS_000124,1000123,empagliflozin,Tendon rupture,N,Recovered,51,F,2021
+FAERS_000125,1000124,apixaban,Myalgia,Y,Other serious,40,F,2023
+FAERS_000126,1000125,ibuprofen,Acute kidney injury,N,Recovered,23,M,2021
+FAERS_000127,1000126,Invokana,Hypoglycaemia,N,Recovered,63,UNK,2023
+FAERS_000128,1000127,ibuprofen,Alanine aminotransferase increased,N,Recovered,41,M,2022
+FAERS_000129,1000128,Plavix,Nausea,N,Recovered,60,M,2021
+FAERS_000130,1000129,metformin,Rhabdomyolysis,Y,Life-threatening,64,F,2023
+FAERS_000131,1000130,rivaroxaban,Hepatic failure,Y,Other serious,45,M,2025
+FAERS_000132,1000131,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,64,F,2023
+FAERS_000133,1000132,rivaroxaban,Acute kidney injury,N,Recovered,60,M,2022
+FAERS_000134,1000133,metformin,Rash,N,Recovered,62,F,2025
+FAERS_000135,1000134,metformin,Nausea,N,Recovered,71,F,2023
+FAERS_000136,1000135,Advil,Acute kidney injury,Y,Hospitalization,68,F,2021
+FAERS_000137,1000136,Tylenol,Diabetic ketoacidosis,Y,Hospitalization,38,F,2024
+FAERS_000138,1000137,empagliflozin,Diabetic ketoacidosis,Y,Recovered,86,F,2022
+FAERS_000139,1000138,simvastatin,Headache,Y,Other serious,37,F,2024
+FAERS_000140,1000139,clopidogrel,Acute kidney injury,Y,Hospitalization,54,F,2023
+FAERS_000141,1000140,metformin,Headache,N,Recovered,53,F,2025
+FAERS_000142,1000141,Prinivil,Tendon rupture,Y,Recovered,56,M,2025
+FAERS_000143,1000142,simvastatin,Rhabdomyolysis,Y,Hospitalization,76,M,2021
+FAERS_000144,1000143,Eliquis,Gastrointestinal haemorrhage,Y,Recovered,68,F,2022
+FAERS_000145,1000144,Advil,Alanine aminotransferase increased,N,Recovered,57,F,2023
+FAERS_000146,1000145,ibuprofen,Diabetic ketoacidosis,Y,Hospitalization,78,M,2024
+FAERS_000147,1000146,Invokana,Diabetic ketoacidosis,Y,Life-threatening,80,M,2023
+FAERS_000148,1000147,Cipro,Gastrointestinal haemorrhage,Y,Hospitalization,49,F,2022
+FAERS_000149,1000148,paracetamol,Angioedema,Y,Recovered,61,F,2022
+FAERS_000150,1000149,Advil,Nausea,N,Recovered,52,F,2023
+FAERS_000151,1000150,empagliflozin,Diabetic ketoacidosis,Y,Recovered,68,F,2022
+FAERS_000152,1000151,Tylenol,Fatigue,N,Recovered,69,F,2021
+FAERS_000153,1000152,Plavix,Hypoglycaemia,N,Recovered,76,F,2024
+FAERS_000154,1000153,ibuprofen,Nausea,Y,Other serious,63,M,2023
+FAERS_000155,1000154,Prinivil,Dizziness,N,Recovered,44,M,2021
+FAERS_000156,1000155,Tylenol,Myalgia,N,Recovered,95,M,2024
+FAERS_000157,1000156,paracetamol,Myalgia,N,Recovered,92,F,2023
+FAERS_000158,1000157,Prinivil,Angioedema,Y,Recovered,66,F,2022
+FAERS_000159,1000158,canagliflozin,Nausea,N,Recovered,82,M,2024
+FAERS_000160,1000159,empagliflozin,Myalgia,Y,Other serious,64,M,2025
+FAERS_000161,1000160,Prinivil,Diabetic ketoacidosis,Y,Hospitalization,61,F,2022
+FAERS_000162,1000161,Eliquis,Angioedema,Y,Hospitalization,54,F,2022
+FAERS_000163,1000162,lisinopril,Angioedema,Y,Other serious,68,F,2022
+FAERS_000164,1000163,Cipro,Rhabdomyolysis,Y,Other serious,72,M,2021
+FAERS_000165,1000164,Zocor,Fatigue,N,Recovered,65,F,2024
+FAERS_000166,1000165,atorvastatin,Myalgia,N,Recovered,62,M,2023
+FAERS_000167,1000166,ibuprofen,Alanine aminotransferase increased,N,Recovered,56,F,2024
+FAERS_000168,1000167,ibuprofen,Rhabdomyolysis,Y,Life-threatening,60,F,2023
+FAERS_000169,1000168,Xarelto,Myalgia,N,Recovered,64,F,2023
+FAERS_000170,1000169,Cipro,Tendon rupture,N,Recovered,61,F,2025
+FAERS_000171,1000170,clopidogrel,Hypoglycaemia,N,Recovered,53,F,2021
+FAERS_000172,1000171,Eliquis,Fatigue,Y,Recovered,61,M,2022
+FAERS_000173,1000172,ciprofloxacin,Gastrointestinal haemorrhage,Y,Life-threatening,74,F,2024
+FAERS_000174,1000173,Prinivil,Angioedema,Y,Recovered,62,F,2024
+FAERS_000175,1000174,Lipitor,Myalgia,N,Recovered,73,F,2024
+FAERS_000176,1000175,simvastatin,Rhabdomyolysis,Y,Hospitalization,69,F,2025
+FAERS_000177,1000176,Plavix,Gastrointestinal haemorrhage,Y,Recovered,54,F,2021
+FAERS_000178,1000177,Prinivil,Acute kidney injury,N,Recovered,70,M,2021
+FAERS_000179,1000178,Jardiance,Rash,N,Recovered,58,M,2021
+FAERS_000180,1000179,atorvastatin,Hypoglycaemia,N,Recovered,64,M,2024
+FAERS_000181,1000180,paracetamol,Myalgia,Y,Other serious,72,M,2021
+FAERS_000182,1000181,lisinopril,Alanine aminotransferase increased,N,Recovered,75,M,2024
+FAERS_000183,1000182,canagliflozin,Diabetic ketoacidosis,Y,Hospitalization,83,F,2023
+FAERS_000184,1000183,rosuvastatin,Alanine aminotransferase increased,N,Recovered,61,F,2023
+FAERS_000185,1000184,Invokana,Diabetic ketoacidosis,Y,Other serious,65,F,2022
+FAERS_000186,1000185,canagliflozin,Diabetic ketoacidosis,Y,Other serious,54,F,2025
+FAERS_000187,1000186,paracetamol,Headache,N,Recovered,36,M,2024
+FAERS_000188,1000187,Crestor,Rhabdomyolysis,Y,Life-threatening,54,F,2023
+FAERS_000189,1000188,Xarelto,Hepatic failure,Y,Recovered,59,F,2021
+FAERS_000190,1000189,canagliflozin,Diabetic ketoacidosis,Y,Recovered,45,F,2024
+FAERS_000191,1000190,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,84,M,2023
+FAERS_000192,1000191,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,83,F,2022
+FAERS_000193,1000192,Invokana,Rhabdomyolysis,Y,Recovered,55,F,2022
+FAERS_000194,1000193,Lipitor,Headache,Y,Hospitalization,28,M,2023
+FAERS_000195,1000194,Eliquis,Rash,Y,Hospitalization,95,F,2023
+FAERS_000196,1000195,atorvastatin,Headache,Y,Hospitalization,61,M,2021
+FAERS_000197,1000196,atorvastatin,Dizziness,Y,Recovered,75,M,2022
+FAERS_000198,1000197,Crestor,Headache,N,Recovered,70,F,2021
+FAERS_000199,1000198,levofloxacin,Nausea,Y,Other serious,74,M,2024
+FAERS_000200,1000199,rosuvastatin,Gastrointestinal haemorrhage,Y,Life-threatening,70,M,2024
+FAERS_000201,1000200,empagliflozin,Myalgia,N,Recovered,47,F,2024
+FAERS_000202,1000201,levofloxacin,Tendon rupture,N,Recovered,54,F,2022
+FAERS_000203,1000202,Xarelto,Dizziness,N,Recovered,42,M,2022
+FAERS_000204,1000203,Levaquin,Rash,N,Recovered,55,M,2024
+FAERS_000205,1000204,rivaroxaban,Angioedema,Y,Hospitalization,95,F,2023
+FAERS_000206,1000205,atorvastatin,Myalgia,N,Recovered,66,F,2024
+FAERS_000207,1000206,Tylenol,Gastrointestinal haemorrhage,Y,Hospitalization,44,M,2024
+FAERS_000208,1000207,apixaban,Hepatic failure,Y,Other serious,40,M,2022
+FAERS_000209,1000208,Plavix,Gastrointestinal haemorrhage,Y,Life-threatening,38,F,2023
+FAERS_000210,1000209,Eliquis,Acute kidney injury,N,Recovered,61,M,2023
+FAERS_000211,1000210,atorvastatin,Tendon rupture,N,Recovered,77,M,2025
+FAERS_000212,1000211,Invokana,Gastrointestinal haemorrhage,Y,Hospitalization,52,M,2023
+FAERS_000213,1000212,Jardiance,Angioedema,Y,Hospitalization,70,M,2023
+FAERS_000214,1000213,Invokana,Tendon rupture,N,Recovered,63,F,2024
+FAERS_000215,1000214,clopidogrel,Rash,Y,Hospitalization,84,M,2025
+FAERS_000216,1000215,apixaban,Gastrointestinal haemorrhage,Y,Other serious,94,M,2023
+FAERS_000217,1000216,Zocor,Rhabdomyolysis,Y,Life-threatening,74,M,2023
+FAERS_000218,1000217,canagliflozin,Acute kidney injury,N,Recovered,66,M,2022
+FAERS_000219,1000218,empagliflozin,Nausea,N,Recovered,53,F,2022
+FAERS_000220,1000219,Plavix,Fatigue,N,Recovered,88,F,2023
+FAERS_000221,1000220,metformin,Rhabdomyolysis,Y,Hospitalization,77,M,2024
+FAERS_000222,1000221,Zocor,Hepatic failure,Y,Hospitalization,78,F,2025
+FAERS_000223,1000222,Jardiance,Headache,N,Recovered,66,F,2024
+FAERS_000224,1000223,simvastatin,Gastrointestinal haemorrhage,Y,Other serious,67,M,2025
+FAERS_000225,1000224,Plavix,Fatigue,N,Recovered,41,F,2022
+FAERS_000226,1000225,apixaban,Tendon rupture,N,Recovered,49,M,2023
+FAERS_000227,1000226,Levaquin,Gastrointestinal haemorrhage,Y,Life-threatening,64,F,2024
+FAERS_000228,1000227,Crestor,Nausea,Y,Hospitalization,52,F,2023
+FAERS_000229,1000228,canagliflozin,Diabetic ketoacidosis,Y,Life-threatening,39,M,2023
+FAERS_000230,1000229,lisinopril,Fatigue,N,Recovered,64,F,2024
+FAERS_000231,1000230,ciprofloxacin,Hypoglycaemia,N,Recovered,63,M,2022
+FAERS_000232,1000231,Tylenol,Alanine aminotransferase increased,N,Recovered,67,F,2023
+FAERS_000233,1000232,Cipro,Nausea,N,Recovered,74,F,2022
+FAERS_000234,1000233,Eliquis,Acute kidney injury,N,Recovered,40,F,2022
+FAERS_000235,1000234,Glucophage,Rhabdomyolysis,Y,Recovered,39,UNK,2023
+FAERS_000236,1000235,Lipitor,Alanine aminotransferase increased,N,Recovered,68,F,2025
+FAERS_000237,1000236,ibuprofen,Hypoglycaemia,N,Recovered,52,F,2023
+FAERS_000238,1000237,metformin,Rhabdomyolysis,Y,Hospitalization,52,M,2024
+FAERS_000239,1000238,Tylenol,Acute kidney injury,N,Recovered,52,F,2023
+FAERS_000240,1000239,Cipro,Tendon rupture,N,Recovered,65,F,2023
+FAERS_000241,1000240,ibuprofen,Rash,N,Recovered,52,F,2022
+FAERS_000242,1000241,Eliquis,Myalgia,N,Recovered,52,M,2023
+FAERS_000243,1000242,empagliflozin,Acute kidney injury,N,Recovered,76,F,2022
+FAERS_000244,1000243,Prinivil,Angioedema,Y,Hospitalization,54,M,2025
+FAERS_000245,1000244,metformin,Gastrointestinal haemorrhage,Y,Recovered,53,F,2021
+FAERS_000246,1000245,Xarelto,Nausea,N,Recovered,59,F,2024
+FAERS_000247,1000246,apixaban,Gastrointestinal haemorrhage,Y,Life-threatening,59,M,2025
+FAERS_000248,1000247,paracetamol,Hypoglycaemia,N,Recovered,54,M,2025
+FAERS_000249,1000248,Cipro,Tendon rupture,N,Recovered,49,M,2024
+FAERS_000250,1000249,canagliflozin,Diabetic ketoacidosis,Y,Hospitalization,63,F,2022
+FAERS_000251,1000250,metformin,Angioedema,Y,Recovered,63,F,2023
+FAERS_000252,1000251,levofloxacin,Rhabdomyolysis,Y,Hospitalization,72,F,2023
+FAERS_000253,1000252,lisinopril,Angioedema,Y,Hospitalization,52,M,2022
+FAERS_000254,1000253,Lipitor,Angioedema,Y,Other serious,45,M,2025
+FAERS_000255,1000254,simvastatin,Fatigue,N,Recovered,85,M,2023
+FAERS_000256,1000255,simvastatin,Diabetic ketoacidosis,Y,Recovered,88,F,2023
+FAERS_000257,1000256,Crestor,Angioedema,Y,Hospitalization,54,M,2022
+FAERS_000258,1000257,lisinopril,Dizziness,N,Recovered,75,F,2021
+FAERS_000259,1000258,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,81,M,2023
+FAERS_000260,1000259,Eliquis,Myalgia,Y,Other serious,69,M,2021
+FAERS_000261,1000260,rivaroxaban,Hypoglycaemia,N,Recovered,62,M,2021
+FAERS_000262,1000261,Invokana,Hypoglycaemia,N,Recovered,34,M,2023
+FAERS_000263,1000262,atorvastatin,Myalgia,N,Recovered,84,F,2022
+FAERS_000264,1000263,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,60,M,2022
+FAERS_000265,1000264,ciprofloxacin,Rhabdomyolysis,Y,Hospitalization,64,F,2024
+FAERS_000266,1000265,paracetamol,Gastrointestinal haemorrhage,Y,Other serious,62,M,2021
+FAERS_000267,1000266,Crestor,Hypoglycaemia,Y,Hospitalization,43,M,2025
+FAERS_000268,1000267,Advil,Rash,Y,Recovered,60,F,2024
+FAERS_000269,1000268,Prinivil,Angioedema,Y,Recovered,48,F,2023
+FAERS_000270,1000269,Plavix,Gastrointestinal haemorrhage,Y,Hospitalization,61,M,2025
+FAERS_000271,1000270,levofloxacin,Headache,Y,Hospitalization,76,M,2025
+FAERS_000272,1000271,clopidogrel,Rhabdomyolysis,Y,Hospitalization,66,F,2021
+FAERS_000273,1000272,levofloxacin,Tendon rupture,N,Recovered,60,F,2024
+FAERS_000274,1000273,metformin,Rhabdomyolysis,Y,Hospitalization,74,M,2023
+FAERS_000275,1000274,canagliflozin,Tendon rupture,Y,Life-threatening,73,F,2021
+FAERS_000276,1000275,metformin,Hepatic failure,Y,Other serious,79,UNK,2025
+FAERS_000277,1000276,Tylenol,Fatigue,N,Recovered,79,F,2021
+FAERS_000278,1000277,Cipro,Tendon rupture,N,Recovered,31,UNK,2022
+FAERS_000279,1000278,Eliquis,Rash,N,Recovered,57,F,2024
+FAERS_000280,1000279,apixaban,Rash,Y,Other serious,58,UNK,2024
+FAERS_000281,1000280,ibuprofen,Rash,Y,Recovered,95,M,2021
+FAERS_000282,1000281,Jardiance,Fatigue,Y,Hospitalization,67,F,2023
+FAERS_000283,1000282,paracetamol,Diabetic ketoacidosis,Y,Other serious,66,M,2024
+FAERS_000284,1000283,Levaquin,Tendon rupture,Y,Other serious,73,F,2024
+FAERS_000285,1000284,lisinopril,Acute kidney injury,N,Recovered,77,M,2023
+FAERS_000286,1000285,atorvastatin,Rhabdomyolysis,Y,Life-threatening,50,M,2025
+FAERS_000287,1000286,Plavix,Alanine aminotransferase increased,Y,Hospitalization,82,F,2024
+FAERS_000288,1000287,Glucophage,Headache,N,Recovered,55,F,2022
+FAERS_000289,1000288,ciprofloxacin,Hypoglycaemia,N,Recovered,59,F,2022
+FAERS_000290,1000289,lisinopril,Fatigue,N,Recovered,50,F,2023
+FAERS_000291,1000290,rosuvastatin,Myalgia,N,Recovered,66,M,2024
+FAERS_000292,1000291,paracetamol,Diabetic ketoacidosis,Y,Life-threatening,66,F,2023
+FAERS_000293,1000292,apixaban,Alanine aminotransferase increased,N,Recovered,78,M,2021
+FAERS_000294,1000293,ibuprofen,Tendon rupture,Y,Hospitalization,70,M,2022
+FAERS_000295,1000294,Levaquin,Angioedema,Y,Recovered,87,M,2022
+FAERS_000296,1000295,clopidogrel,Myalgia,Y,Hospitalization,63,F,2024
+FAERS_000297,1000296,lisinopril,Angioedema,Y,Recovered,76,UNK,2022
+FAERS_000298,1000297,Tylenol,Angioedema,Y,Hospitalization,73,M,2024
+FAERS_000299,1000298,paracetamol,Hypoglycaemia,N,Recovered,64,M,2024
+FAERS_000300,1000299,Xarelto,Rash,N,Recovered,70,F,2023
+FAERS_000301,1000300,ciprofloxacin,Tendon rupture,N,Recovered,66,M,2024
+FAERS_000302,1000301,ibuprofen,Rhabdomyolysis,Y,Hospitalization,62,F,2024
+FAERS_000303,1000302,Crestor,Diabetic ketoacidosis,Y,Other serious,52,F,2023
+FAERS_000304,1000303,rosuvastatin,Myalgia,N,Recovered,30,M,2025
+FAERS_000305,1000304,clopidogrel,Gastrointestinal haemorrhage,Y,Hospitalization,58,F,2023
+FAERS_000306,1000305,clopidogrel,Hepatic failure,Y,Hospitalization,48,M,2022
+FAERS_000307,1000306,lisinopril,Angioedema,Y,Hospitalization,74,M,2024
+FAERS_000308,1000307,Prinivil,Fatigue,Y,Life-threatening,50,M,2025
+FAERS_000309,1000308,Lipitor,Gastrointestinal haemorrhage,Y,Hospitalization,65,F,2025
+FAERS_000310,1000309,canagliflozin,Hepatic failure,Y,Hospitalization,63,F,2025
+FAERS_000311,1000310,Crestor,Tendon rupture,N,Recovered,43,UNK,2024
+FAERS_000312,1000311,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,95,F,2023
+FAERS_000313,1000312,ibuprofen,Rhabdomyolysis,Y,Recovered,76,F,2023
+FAERS_000314,1000313,lisinopril,Rhabdomyolysis,Y,Recovered,30,M,2021
+FAERS_000315,1000314,Eliquis,Myalgia,N,Recovered,60,F,2022
+FAERS_000316,1000315,simvastatin,Dizziness,N,Recovered,77,UNK,2024
+FAERS_000317,1000316,Glucophage,Dizziness,N,Recovered,78,F,2022
+FAERS_000318,1000317,ibuprofen,Hepatic failure,Y,Other serious,51,M,2023
+FAERS_000319,1000318,apixaban,Myalgia,N,Recovered,61,F,2023
+FAERS_000320,1000319,simvastatin,Acute kidney injury,N,Recovered,51,F,2023
+FAERS_000321,1000320,Tylenol,Hypoglycaemia,N,Recovered,36,F,2023
+FAERS_000322,1000321,Plavix,Rash,Y,Recovered,64,F,2023
+FAERS_000323,1000322,canagliflozin,Diabetic ketoacidosis,Y,Life-threatening,40,F,2022
+FAERS_000324,1000323,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,80,M,2025
+FAERS_000325,1000324,Invokana,Diabetic ketoacidosis,Y,Hospitalization,49,UNK,2023
+FAERS_000326,1000325,Prinivil,Hypoglycaemia,Y,Hospitalization,77,F,2023
+FAERS_000327,1000326,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,54,UNK,2022
+FAERS_000328,1000327,simvastatin,Diabetic ketoacidosis,Y,Other serious,44,F,2025
+FAERS_000329,1000328,canagliflozin,Tendon rupture,Y,Hospitalization,72,F,2023
+FAERS_000330,1000329,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,54,M,2021
+FAERS_000331,1000330,Cipro,Tendon rupture,N,Recovered,46,F,2024
+FAERS_000332,1000331,Cipro,Tendon rupture,Y,Hospitalization,90,M,2024
+FAERS_000333,1000332,clopidogrel,Acute kidney injury,Y,Hospitalization,68,UNK,2021
+FAERS_000334,1000333,apixaban,Gastrointestinal haemorrhage,Y,Recovered,47,M,2021
+FAERS_000335,1000334,Advil,Hepatic failure,Y,Other serious,59,F,2021
+FAERS_000336,1000335,Tylenol,Fatigue,N,Recovered,66,M,2022
+FAERS_000337,1000336,lisinopril,Angioedema,Y,Life-threatening,48,M,2024
+FAERS_000338,1000337,Levaquin,Tendon rupture,Y,Other serious,57,F,2025
+FAERS_000339,1000338,Tylenol,Diabetic ketoacidosis,Y,Recovered,72,M,2025
+FAERS_000340,1000339,Xarelto,Headache,Y,Recovered,70,M,2025
+FAERS_000341,1000340,rosuvastatin,Myalgia,Y,Hospitalization,63,M,2024
+FAERS_000342,1000341,lisinopril,Angioedema,Y,Other serious,53,M,2025
+FAERS_000343,1000342,lisinopril,Nausea,N,Recovered,72,M,2023
+FAERS_000344,1000343,levofloxacin,Tendon rupture,N,Recovered,52,M,2024
+FAERS_000345,1000344,Lipitor,Headache,N,Recovered,65,F,2025
+FAERS_000346,1000345,Prinivil,Nausea,N,Recovered,70,M,2023
+FAERS_000347,1000346,Jardiance,Diabetic ketoacidosis,Y,Recovered,57,F,2023
+FAERS_000348,1000347,Tylenol,Acute kidney injury,N,Recovered,57,M,2022
+FAERS_000349,1000348,Crestor,Myalgia,N,Recovered,59,UNK,2022
+FAERS_000350,1000349,ibuprofen,Rhabdomyolysis,Y,Other serious,37,M,2024
+FAERS_000351,1000350,Tylenol,Rhabdomyolysis,Y,Life-threatening,42,F,2023
+FAERS_000352,1000351,paracetamol,Alanine aminotransferase increased,Y,Recovered,25,F,2025
+FAERS_000353,1000352,paracetamol,Dizziness,Y,Hospitalization,28,M,2023
+FAERS_000354,1000353,clopidogrel,Headache,N,Recovered,41,F,2023
+FAERS_000355,1000354,Plavix,Alanine aminotransferase increased,Y,Hospitalization,57,M,2025
+FAERS_000356,1000355,Tylenol,Nausea,N,Recovered,63,F,2022
+FAERS_000357,1000356,Lipitor,Acute kidney injury,Y,Recovered,73,M,2025
+FAERS_000358,1000357,Lipitor,Myalgia,N,Recovered,69,M,2023
+FAERS_000359,1000358,Levaquin,Tendon rupture,N,Recovered,58,F,2024
+FAERS_000360,1000359,atorvastatin,Alanine aminotransferase increased,N,Recovered,52,M,2024
+FAERS_000361,1000360,Eliquis,Gastrointestinal haemorrhage,Y,Recovered,68,F,2023
+FAERS_000362,1000361,metformin,Headache,N,Recovered,46,M,2022
+FAERS_000363,1000362,Prinivil,Tendon rupture,N,Recovered,64,M,2024
+FAERS_000364,1000363,rivaroxaban,Fatigue,Y,Hospitalization,47,M,2024
+FAERS_000365,1000364,apixaban,Hypoglycaemia,N,Recovered,69,F,2025
+FAERS_000366,1000365,metformin,Dizziness,N,Recovered,68,M,2021
+FAERS_000367,1000366,clopidogrel,Nausea,N,Recovered,68,M,2024
+FAERS_000368,1000367,Tylenol,Hypoglycaemia,N,Recovered,47,M,2021
+FAERS_000369,1000368,Xarelto,Rhabdomyolysis,Y,Hospitalization,79,F,2023
+FAERS_000370,1000369,Levaquin,Tendon rupture,N,Recovered,63,F,2021
+FAERS_000371,1000370,Invokana,Diabetic ketoacidosis,Y,Hospitalization,60,F,2023
+FAERS_000372,1000371,simvastatin,Rash,N,Recovered,59,F,2021
+FAERS_000373,1000372,Zocor,Tendon rupture,Y,Recovered,25,UNK,2023
+FAERS_000374,1000373,paracetamol,Gastrointestinal haemorrhage,Y,Recovered,44,F,2022
+FAERS_000375,1000374,atorvastatin,Rhabdomyolysis,Y,Hospitalization,58,M,2022
+FAERS_000376,1000375,Levaquin,Rash,N,Recovered,79,M,2025
+FAERS_000377,1000376,Tylenol,Rash,N,Recovered,59,F,2023
+FAERS_000378,1000377,Levaquin,Myalgia,N,Recovered,46,F,2023
+FAERS_000379,1000378,Zocor,Nausea,N,Recovered,61,F,2022
+FAERS_000380,1000379,Advil,Gastrointestinal haemorrhage,Y,Hospitalization,54,F,2025
+FAERS_000381,1000380,Invokana,Tendon rupture,Y,Life-threatening,52,F,2025
+FAERS_000382,1000381,ciprofloxacin,Tendon rupture,N,Recovered,74,F,2023
+FAERS_000383,1000382,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,36,F,2025
+FAERS_000384,1000383,Levaquin,Hepatic failure,Y,Recovered,89,M,2023
+FAERS_000385,1000384,Cipro,Alanine aminotransferase increased,N,Recovered,64,M,2021
+FAERS_000386,1000385,Lipitor,Diabetic ketoacidosis,Y,Hospitalization,61,M,2022
+FAERS_000387,1000386,Cipro,Rash,N,Recovered,74,F,2021
+FAERS_000388,1000387,empagliflozin,Diabetic ketoacidosis,Y,Recovered,73,M,2023
+FAERS_000389,1000388,clopidogrel,Hepatic failure,Y,Recovered,54,M,2024
+FAERS_000390,1000389,Lipitor,Rhabdomyolysis,Y,Recovered,73,F,2024
+FAERS_000391,1000390,Lipitor,Myalgia,N,Recovered,58,F,2022
+FAERS_000392,1000391,simvastatin,Nausea,N,Recovered,49,M,2024
+FAERS_000393,1000392,atorvastatin,Rhabdomyolysis,Y,Recovered,35,M,2023
+FAERS_000394,1000393,ciprofloxacin,Myalgia,Y,Hospitalization,64,M,2023
+FAERS_000395,1000394,Glucophage,Acute kidney injury,N,Recovered,59,F,2022
+FAERS_000396,1000395,Lipitor,Hepatic failure,Y,Hospitalization,71,UNK,2024
+FAERS_000397,1000396,Eliquis,Rash,N,Recovered,62,M,2023
+FAERS_000398,1000397,paracetamol,Myalgia,N,Recovered,76,M,2024
+FAERS_000399,1000398,clopidogrel,Hepatic failure,Y,Life-threatening,45,F,2022
+FAERS_000400,1000399,lisinopril,Nausea,N,Recovered,62,F,2021
+FAERS_000401,1000400,Cipro,Tendon rupture,N,Recovered,69,F,2023
+FAERS_000402,1000401,clopidogrel,Headache,Y,Other serious,53,M,2025
+FAERS_000403,1000402,Eliquis,Diabetic ketoacidosis,Y,Other serious,76,F,2025
+FAERS_000404,1000403,Tylenol,Nausea,N,Recovered,64,UNK,2021
+FAERS_000405,1000404,apixaban,Hypoglycaemia,N,Recovered,81,M,2022
+FAERS_000406,1000405,Prinivil,Angioedema,Y,Recovered,74,M,2021
+FAERS_000407,1000406,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,64,F,2021
+FAERS_000408,1000407,ciprofloxacin,Headache,N,Recovered,58,M,2021
+FAERS_000409,1000408,Crestor,Hypoglycaemia,N,Recovered,57,F,2023
+FAERS_000410,1000409,Jardiance,Fatigue,N,Recovered,66,F,2024
+FAERS_000411,1000410,Plavix,Myalgia,N,Recovered,71,M,2024
+FAERS_000412,1000411,canagliflozin,Nausea,Y,Hospitalization,59,M,2023
+FAERS_000413,1000412,Prinivil,Angioedema,Y,Hospitalization,62,M,2024
+FAERS_000414,1000413,Zocor,Myalgia,N,Recovered,47,M,2021
+FAERS_000415,1000414,Eliquis,Gastrointestinal haemorrhage,Y,Other serious,95,M,2023
+FAERS_000416,1000415,rivaroxaban,Rhabdomyolysis,Y,Recovered,72,M,2024
+FAERS_000417,1000416,metformin,Hypoglycaemia,Y,Hospitalization,71,M,2022
+FAERS_000418,1000417,Lipitor,Acute kidney injury,Y,Hospitalization,70,M,2023
+FAERS_000419,1000418,rosuvastatin,Angioedema,Y,Hospitalization,64,F,2023
+FAERS_000420,1000419,rosuvastatin,Alanine aminotransferase increased,N,Recovered,65,M,2022
+FAERS_000421,1000420,Cipro,Tendon rupture,N,Recovered,73,UNK,2022
+FAERS_000422,1000421,paracetamol,Rash,Y,Recovered,86,F,2024
+FAERS_000423,1000422,Glucophage,Dizziness,N,Recovered,55,M,2025
+FAERS_000424,1000423,rosuvastatin,Hypoglycaemia,N,Recovered,74,F,2024
+FAERS_000425,1000424,simvastatin,Hypoglycaemia,N,Recovered,52,F,2024
+FAERS_000426,1000425,paracetamol,Fatigue,N,Recovered,62,M,2023
+FAERS_000427,1000426,atorvastatin,Rhabdomyolysis,Y,Hospitalization,71,F,2023
+FAERS_000428,1000427,Crestor,Rhabdomyolysis,Y,Recovered,64,F,2025
+FAERS_000429,1000428,Levaquin,Alanine aminotransferase increased,N,Recovered,28,F,2021
+FAERS_000430,1000429,rivaroxaban,Fatigue,Y,Life-threatening,70,UNK,2023
+FAERS_000431,1000430,Tylenol,Gastrointestinal haemorrhage,Y,Other serious,64,M,2024
+FAERS_000432,1000431,atorvastatin,Fatigue,N,Recovered,62,F,2025
+FAERS_000433,1000432,Prinivil,Hepatic failure,Y,Hospitalization,48,F,2024
+FAERS_000434,1000433,clopidogrel,Alanine aminotransferase increased,Y,Hospitalization,73,F,2021
+FAERS_000435,1000434,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,44,M,2024
+FAERS_000436,1000435,Xarelto,Gastrointestinal haemorrhage,Y,Other serious,70,M,2023
+FAERS_000437,1000436,Prinivil,Angioedema,Y,Hospitalization,51,F,2025
+FAERS_000438,1000437,Glucophage,Angioedema,Y,Hospitalization,40,M,2021
+FAERS_000439,1000438,Glucophage,Hepatic failure,Y,Other serious,79,M,2024
+FAERS_000440,1000439,apixaban,Angioedema,Y,Recovered,35,M,2024
+FAERS_000441,1000440,Zocor,Rhabdomyolysis,Y,Recovered,68,M,2023
+FAERS_000442,1000441,clopidogrel,Diabetic ketoacidosis,Y,Hospitalization,49,M,2024
+FAERS_000443,1000442,Glucophage,Acute kidney injury,N,Recovered,57,F,2024
+FAERS_000444,1000443,levofloxacin,Tendon rupture,N,Recovered,77,F,2022
+FAERS_000445,1000444,Glucophage,Hepatic failure,Y,Recovered,62,M,2024
+FAERS_000446,1000445,rosuvastatin,Nausea,N,Recovered,71,M,2024
+FAERS_000447,1000446,Levaquin,Nausea,N,Recovered,67,M,2023
+FAERS_000448,1000447,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,59,M,2024
+FAERS_000449,1000448,Glucophage,Alanine aminotransferase increased,N,Recovered,75,M,2022
+FAERS_000450,1000449,Tylenol,Rash,N,Recovered,59,M,2024
+FAERS_000451,1000450,Zocor,Fatigue,N,Recovered,53,M,2025
+FAERS_000452,1000451,ciprofloxacin,Tendon rupture,N,Recovered,56,F,2021
+FAERS_000453,1000452,Plavix,Dizziness,N,Recovered,37,F,2023
+FAERS_000454,1000453,ciprofloxacin,Headache,N,Recovered,63,M,2023
+FAERS_000455,1000454,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,61,M,2022
+FAERS_000456,1000455,simvastatin,Acute kidney injury,N,Recovered,68,M,2025
+FAERS_000457,1000456,atorvastatin,Alanine aminotransferase increased,Y,Recovered,56,F,2022
+FAERS_000458,1000457,ciprofloxacin,Acute kidney injury,N,Recovered,55,F,2022
+FAERS_000459,1000458,rosuvastatin,Angioedema,Y,Recovered,57,F,2021
+FAERS_000460,1000459,lisinopril,Acute kidney injury,N,Recovered,60,M,2024
+FAERS_000461,1000460,Eliquis,Nausea,Y,Recovered,62,F,2025
+FAERS_000462,1000461,Crestor,Fatigue,N,Recovered,52,F,2024
+FAERS_000463,1000462,canagliflozin,Diabetic ketoacidosis,Y,Recovered,67,F,2022
+FAERS_000464,1000463,Crestor,Acute kidney injury,N,Recovered,73,F,2021
+FAERS_000465,1000464,rivaroxaban,Gastrointestinal haemorrhage,Y,Other serious,61,M,2023
+FAERS_000466,1000465,Zocor,Hepatic failure,Y,Hospitalization,58,F,2022
+FAERS_000467,1000466,levofloxacin,Diabetic ketoacidosis,Y,Other serious,54,M,2023
+FAERS_000468,1000467,paracetamol,Rash,N,Recovered,64,M,2024
+FAERS_000469,1000468,clopidogrel,Nausea,N,Recovered,54,UNK,2021
+FAERS_000470,1000469,Levaquin,Tendon rupture,N,Recovered,38,F,2025
+FAERS_000471,1000470,levofloxacin,Headache,N,Recovered,63,M,2024
+FAERS_000472,1000471,Crestor,Myalgia,Y,Recovered,41,F,2024
+FAERS_000473,1000472,Xarelto,Gastrointestinal haemorrhage,Y,Recovered,60,M,2023
+FAERS_000474,1000473,Cipro,Tendon rupture,Y,Recovered,64,M,2025
+FAERS_000475,1000474,Lipitor,Gastrointestinal haemorrhage,Y,Other serious,46,F,2025
+FAERS_000476,1000475,apixaban,Tendon rupture,N,Recovered,49,F,2024
+FAERS_000477,1000476,Xarelto,Angioedema,Y,Recovered,76,M,2021
+FAERS_000478,1000477,Levaquin,Diabetic ketoacidosis,Y,Recovered,78,F,2023
+FAERS_000479,1000478,empagliflozin,Gastrointestinal haemorrhage,Y,Other serious,61,M,2024
+FAERS_000480,1000479,rivaroxaban,Angioedema,Y,Hospitalization,59,M,2024
+FAERS_000481,1000480,clopidogrel,Fatigue,Y,Other serious,43,F,2021
+FAERS_000482,1000481,paracetamol,Rash,Y,Other serious,71,M,2021
+FAERS_000483,1000482,Invokana,Diabetic ketoacidosis,Y,Hospitalization,68,F,2023
+FAERS_000484,1000483,levofloxacin,Diabetic ketoacidosis,Y,Recovered,43,F,2022
+FAERS_000485,1000484,Crestor,Rhabdomyolysis,Y,Recovered,75,M,2022
+FAERS_000486,1000485,Glucophage,Hypoglycaemia,Y,Recovered,51,F,2025
+FAERS_000487,1000486,atorvastatin,Fatigue,Y,Recovered,76,F,2023
+FAERS_000488,1000487,levofloxacin,Gastrointestinal haemorrhage,Y,Hospitalization,68,F,2023
+FAERS_000489,1000488,ibuprofen,Alanine aminotransferase increased,N,Recovered,55,M,2022
+FAERS_000490,1000489,simvastatin,Rhabdomyolysis,Y,Life-threatening,61,F,2021
+FAERS_000491,1000490,Levaquin,Tendon rupture,Y,Hospitalization,73,F,2024
+FAERS_000492,1000491,rosuvastatin,Fatigue,N,Recovered,66,F,2023
+FAERS_000493,1000492,apixaban,Headache,N,Recovered,55,F,2024
+FAERS_000494,1000493,Levaquin,Acute kidney injury,N,Recovered,69,M,2022
+FAERS_000495,1000494,simvastatin,Diabetic ketoacidosis,Y,Hospitalization,66,F,2025
+FAERS_000496,1000495,ciprofloxacin,Headache,N,Recovered,31,M,2022
+FAERS_000497,1000496,Plavix,Gastrointestinal haemorrhage,Y,Hospitalization,47,M,2022
+FAERS_000498,1000497,atorvastatin,Hypoglycaemia,Y,Hospitalization,72,F,2022
+FAERS_000499,1000498,Invokana,Diabetic ketoacidosis,Y,Life-threatening,52,M,2022
+FAERS_000500,1000499,rivaroxaban,Gastrointestinal haemorrhage,Y,Hospitalization,44,M,2022
+FAERS_000501,1000500,ibuprofen,Hypoglycaemia,N,Recovered,65,M,2024
+FAERS_000502,1000501,Crestor,Rash,N,Recovered,62,F,2022
+FAERS_000503,1000502,Prinivil,Myalgia,N,Recovered,61,F,2023
+FAERS_000504,1000503,Levaquin,Tendon rupture,Y,Life-threatening,89,M,2025
+FAERS_000505,1000504,Advil,Hepatic failure,Y,Hospitalization,95,F,2024
+FAERS_000506,1000505,Eliquis,Headache,N,Recovered,46,F,2024
+FAERS_000507,1000506,ciprofloxacin,Tendon rupture,N,Recovered,56,F,2023
+FAERS_000508,1000507,Jardiance,Diabetic ketoacidosis,Y,Recovered,52,M,2023
+FAERS_000509,1000508,levofloxacin,Myalgia,N,Recovered,73,UNK,2021
+FAERS_000510,1000509,Prinivil,Alanine aminotransferase increased,N,Recovered,30,F,2023
+FAERS_000511,1000510,Xarelto,Gastrointestinal haemorrhage,Y,Recovered,51,F,2024
+FAERS_000512,1000511,rosuvastatin,Angioedema,Y,Other serious,60,M,2022
+FAERS_000513,1000512,Invokana,Rhabdomyolysis,Y,Hospitalization,82,M,2021
+FAERS_000514,1000513,rosuvastatin,Dizziness,N,Recovered,42,F,2023
+FAERS_000515,1000514,apixaban,Diabetic ketoacidosis,Y,Hospitalization,77,F,2022
+FAERS_000516,1000515,rivaroxaban,Dizziness,N,Recovered,83,F,2024
+FAERS_000517,1000516,apixaban,Tendon rupture,N,Recovered,84,M,2023
+FAERS_000518,1000517,ciprofloxacin,Tendon rupture,Y,Life-threatening,65,M,2022
+FAERS_000519,1000518,canagliflozin,Fatigue,N,Recovered,49,F,2024
+FAERS_000520,1000519,simvastatin,Diabetic ketoacidosis,Y,Hospitalization,83,F,2024
+FAERS_000521,1000520,Prinivil,Tendon rupture,N,Recovered,47,F,2022
+FAERS_000522,1000521,Cipro,Acute kidney injury,N,Recovered,71,UNK,2024
+FAERS_000523,1000522,paracetamol,Hypoglycaemia,N,Recovered,59,M,2023
+FAERS_000524,1000523,Cipro,Nausea,N,Recovered,41,F,2024
+FAERS_000525,1000524,lisinopril,Nausea,N,Recovered,55,F,2021
+FAERS_000526,1000525,Lipitor,Gastrointestinal haemorrhage,Y,Hospitalization,84,M,2025
+FAERS_000527,1000526,Xarelto,Dizziness,N,Recovered,61,F,2022
+FAERS_000528,1000527,Crestor,Rhabdomyolysis,Y,Hospitalization,59,F,2023
+FAERS_000529,1000528,rivaroxaban,Diabetic ketoacidosis,Y,Life-threatening,65,M,2021
+FAERS_000530,1000529,apixaban,Tendon rupture,N,Recovered,68,F,2023
+FAERS_000531,1000530,Tylenol,Dizziness,N,Recovered,65,F,2025
+FAERS_000532,1000531,atorvastatin,Tendon rupture,N,Recovered,46,F,2023
+FAERS_000533,1000532,levofloxacin,Rhabdomyolysis,Y,Recovered,71,F,2025
+FAERS_000534,1000533,Xarelto,Myalgia,N,Recovered,61,M,2025
+FAERS_000535,1000534,Plavix,Rash,Y,Hospitalization,84,F,2023
+FAERS_000536,1000535,levofloxacin,Alanine aminotransferase increased,N,Recovered,66,F,2021
+FAERS_000537,1000536,Lipitor,Fatigue,N,Recovered,34,F,2025
+FAERS_000538,1000537,apixaban,Alanine aminotransferase increased,N,Recovered,33,F,2024
+FAERS_000539,1000538,ibuprofen,Nausea,Y,Other serious,64,F,2021
+FAERS_000540,1000539,paracetamol,Hepatic failure,Y,Other serious,50,F,2022
+FAERS_000541,1000540,Cipro,Fatigue,Y,Other serious,49,F,2025
+FAERS_000542,1000541,Cipro,Headache,Y,Hospitalization,75,M,2024
+FAERS_000543,1000542,Glucophage,Hypoglycaemia,N,Recovered,66,F,2021
+FAERS_000544,1000543,levofloxacin,Dizziness,Y,Hospitalization,66,M,2023
+FAERS_000545,1000544,paracetamol,Angioedema,Y,Hospitalization,61,M,2024
+FAERS_000546,1000545,metformin,Nausea,N,Recovered,68,M,2022
+FAERS_000547,1000546,Prinivil,Angioedema,Y,Other serious,70,M,2022
+FAERS_000548,1000547,clopidogrel,Myalgia,N,Recovered,54,F,2024
+FAERS_000549,1000548,Zocor,Dizziness,N,Recovered,45,F,2022
+FAERS_000550,1000549,Levaquin,Rash,Y,Life-threatening,62,M,2024
+FAERS_000551,1000550,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,70,UNK,2024
+FAERS_000552,1000551,Cipro,Acute kidney injury,N,Recovered,33,F,2024
+FAERS_000553,1000552,apixaban,Gastrointestinal haemorrhage,Y,Recovered,85,F,2023
+FAERS_000554,1000553,Glucophage,Myalgia,N,Recovered,60,M,2024
+FAERS_000555,1000554,metformin,Rhabdomyolysis,Y,Other serious,62,F,2023
+FAERS_000556,1000555,ibuprofen,Acute kidney injury,Y,Hospitalization,80,F,2024
+FAERS_000557,1000556,clopidogrel,Hepatic failure,Y,Recovered,61,M,2025
+FAERS_000558,1000557,simvastatin,Nausea,Y,Other serious,78,M,2024
+FAERS_000559,1000558,Xarelto,Fatigue,Y,Hospitalization,67,M,2024
+FAERS_000560,1000559,apixaban,Rash,N,Recovered,68,M,2021
+FAERS_000561,1000560,levofloxacin,Tendon rupture,Y,Hospitalization,43,M,2023
+FAERS_000562,1000561,metformin,Alanine aminotransferase increased,N,Recovered,53,F,2024
+FAERS_000563,1000562,Cipro,Acute kidney injury,N,Recovered,74,F,2023
+FAERS_000564,1000563,Prinivil,Alanine aminotransferase increased,N,Recovered,83,F,2023
+FAERS_000565,1000564,Advil,Rhabdomyolysis,Y,Life-threatening,95,F,2023
+FAERS_000566,1000565,Plavix,Hepatic failure,Y,Recovered,65,F,2023
+FAERS_000567,1000566,Lipitor,Fatigue,Y,Recovered,40,M,2024
+FAERS_000568,1000567,metformin,Hypoglycaemia,N,Recovered,57,M,2024
+FAERS_000569,1000568,Invokana,Rash,N,Recovered,51,F,2023
+FAERS_000570,1000569,simvastatin,Gastrointestinal haemorrhage,Y,Life-threatening,72,M,2024
+FAERS_000571,1000570,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,38,M,2022
+FAERS_000572,1000571,Glucophage,Rhabdomyolysis,Y,Hospitalization,52,F,2022
+FAERS_000573,1000572,simvastatin,Diabetic ketoacidosis,Y,Life-threatening,31,F,2022
+FAERS_000574,1000573,apixaban,Headache,N,Recovered,63,M,2023
+FAERS_000575,1000574,rivaroxaban,Nausea,N,Recovered,73,M,2025
+FAERS_000576,1000575,canagliflozin,Diabetic ketoacidosis,Y,Hospitalization,55,M,2025
+FAERS_000577,1000576,Jardiance,Diabetic ketoacidosis,Y,Other serious,47,M,2023
+FAERS_000578,1000577,Crestor,Myalgia,N,Recovered,75,M,2025
+FAERS_000579,1000578,metformin,Diabetic ketoacidosis,Y,Life-threatening,52,F,2024
+FAERS_000580,1000579,Jardiance,Dizziness,N,Recovered,57,F,2025
+FAERS_000581,1000580,canagliflozin,Acute kidney injury,N,Recovered,53,M,2024
+FAERS_000582,1000581,Advil,Rhabdomyolysis,Y,Life-threatening,57,F,2022
+FAERS_000583,1000582,paracetamol,Rash,N,Recovered,72,F,2023
+FAERS_000584,1000583,Invokana,Diabetic ketoacidosis,Y,Other serious,81,F,2024
+FAERS_000585,1000584,rivaroxaban,Nausea,Y,Recovered,72,M,2022
+FAERS_000586,1000585,Zocor,Rhabdomyolysis,Y,Other serious,66,M,2021
+FAERS_000587,1000586,Zocor,Myalgia,Y,Other serious,71,F,2025
+FAERS_000588,1000587,Prinivil,Rash,N,Recovered,75,F,2022
+FAERS_000589,1000588,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,52,M,2021
+FAERS_000590,1000589,Lipitor,Nausea,Y,Recovered,72,UNK,2023
+FAERS_000591,1000590,empagliflozin,Rhabdomyolysis,Y,Hospitalization,55,M,2023
+FAERS_000592,1000591,simvastatin,Hepatic failure,Y,Hospitalization,67,F,2023
+FAERS_000593,1000592,metformin,Gastrointestinal haemorrhage,Y,Hospitalization,72,M,2022
+FAERS_000594,1000593,Zocor,Rhabdomyolysis,Y,Other serious,71,M,2024
+FAERS_000595,1000594,apixaban,Gastrointestinal haemorrhage,Y,Recovered,78,M,2025
+FAERS_000596,1000595,Glucophage,Acute kidney injury,Y,Recovered,83,F,2024
+FAERS_000597,1000596,Crestor,Angioedema,Y,Life-threatening,67,M,2022
+FAERS_000598,1000597,Glucophage,Rhabdomyolysis,Y,Life-threatening,64,M,2024
+FAERS_000599,1000598,lisinopril,Angioedema,Y,Other serious,52,F,2021
+FAERS_000600,1000599,rosuvastatin,Hypoglycaemia,Y,Hospitalization,48,F,2024
+FAERS_000601,1000600,Cipro,Headache,N,Recovered,74,M,2023
+FAERS_000602,1000601,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,55,M,2022
+FAERS_000603,1000602,Advil,Hypoglycaemia,N,Recovered,75,F,2021
+FAERS_000604,1000603,lisinopril,Angioedema,Y,Life-threatening,60,F,2023
+FAERS_000605,1000604,Cipro,Headache,Y,Hospitalization,71,M,2021
+FAERS_000606,1000605,Levaquin,Rash,N,Recovered,37,M,2024
+FAERS_000607,1000606,ibuprofen,Diabetic ketoacidosis,Y,Other serious,60,F,2022
+FAERS_000608,1000607,Crestor,Hypoglycaemia,Y,Other serious,70,F,2024
+FAERS_000609,1000608,Plavix,Gastrointestinal haemorrhage,Y,Recovered,59,F,2025
+FAERS_000610,1000609,atorvastatin,Myalgia,N,Recovered,75,M,2024
+FAERS_000611,1000610,lisinopril,Acute kidney injury,N,Recovered,55,M,2022
+FAERS_000612,1000611,ibuprofen,Acute kidney injury,Y,Hospitalization,48,M,2022
+FAERS_000613,1000612,levofloxacin,Tendon rupture,N,Recovered,63,M,2021
+FAERS_000614,1000613,simvastatin,Fatigue,N,Recovered,54,M,2021
+FAERS_000615,1000614,Prinivil,Gastrointestinal haemorrhage,Y,Other serious,37,F,2022
+FAERS_000616,1000615,Cipro,Rash,N,Recovered,66,M,2023
+FAERS_000617,1000616,Levaquin,Tendon rupture,Y,Hospitalization,46,M,2021
+FAERS_000618,1000617,Cipro,Hepatic failure,Y,Recovered,49,M,2022
+FAERS_000619,1000618,paracetamol,Tendon rupture,Y,Hospitalization,60,F,2023
+FAERS_000620,1000619,Zocor,Angioedema,Y,Hospitalization,86,F,2024
+FAERS_000621,1000620,atorvastatin,Myalgia,Y,Other serious,83,M,2024
+FAERS_000622,1000621,paracetamol,Headache,Y,Recovered,49,M,2023
+FAERS_000623,1000622,Eliquis,Gastrointestinal haemorrhage,Y,Life-threatening,48,M,2024
+FAERS_000624,1000623,ibuprofen,Alanine aminotransferase increased,N,Recovered,63,UNK,2021
+FAERS_000625,1000624,Glucophage,Dizziness,Y,Life-threatening,70,F,2025
+FAERS_000626,1000625,atorvastatin,Dizziness,N,Recovered,77,M,2022
+FAERS_000627,1000626,ciprofloxacin,Acute kidney injury,N,Recovered,64,F,2023
+FAERS_000628,1000627,apixaban,Hypoglycaemia,N,Recovered,67,M,2025
+FAERS_000629,1000628,Lipitor,Tendon rupture,Y,Other serious,51,F,2021
+FAERS_000630,1000629,Invokana,Diabetic ketoacidosis,Y,Recovered,73,M,2024
+FAERS_000631,1000630,atorvastatin,Myalgia,Y,Recovered,37,M,2024
+FAERS_000632,1000631,metformin,Nausea,Y,Hospitalization,87,F,2022
+FAERS_000633,1000632,ibuprofen,Myalgia,N,Recovered,57,F,2022
+FAERS_000634,1000633,Jardiance,Headache,N,Recovered,32,M,2021
+FAERS_000635,1000634,Lipitor,Angioedema,Y,Hospitalization,54,F,2025
+FAERS_000636,1000635,canagliflozin,Angioedema,Y,Hospitalization,49,F,2023
+FAERS_000637,1000636,lisinopril,Nausea,N,Recovered,70,M,2021
+FAERS_000638,1000637,rosuvastatin,Rash,N,Recovered,58,F,2025
+FAERS_000639,1000638,Lipitor,Angioedema,Y,Hospitalization,60,M,2022
+FAERS_000640,1000639,rosuvastatin,Diabetic ketoacidosis,Y,Recovered,65,F,2021
+FAERS_000641,1000640,ciprofloxacin,Acute kidney injury,N,Recovered,34,M,2021
+FAERS_000642,1000641,Cipro,Tendon rupture,N,Recovered,71,M,2023
+FAERS_000643,1000642,Xarelto,Gastrointestinal haemorrhage,Y,Recovered,70,M,2021
+FAERS_000644,1000643,Prinivil,Diabetic ketoacidosis,Y,Recovered,35,F,2023
+FAERS_000645,1000644,ibuprofen,Tendon rupture,Y,Hospitalization,42,M,2022
+FAERS_000646,1000645,Cipro,Fatigue,N,Recovered,53,F,2025
+FAERS_000647,1000646,lisinopril,Rash,N,Recovered,45,M,2024
+FAERS_000648,1000647,ciprofloxacin,Tendon rupture,N,Recovered,46,F,2021
+FAERS_000649,1000648,canagliflozin,Angioedema,Y,Recovered,69,F,2024
+FAERS_000650,1000649,Prinivil,Headache,N,Recovered,67,M,2023
+FAERS_000651,1000650,ibuprofen,Nausea,Y,Hospitalization,61,F,2023
+FAERS_000652,1000651,Glucophage,Rash,N,Recovered,48,F,2022
+FAERS_000653,1000652,Xarelto,Myalgia,N,Recovered,89,M,2022
+FAERS_000654,1000653,Lipitor,Nausea,N,Recovered,61,F,2024
+FAERS_000655,1000654,Invokana,Angioedema,Y,Other serious,70,F,2023
+FAERS_000656,1000655,lisinopril,Headache,N,Recovered,49,UNK,2024
+FAERS_000657,1000656,paracetamol,Fatigue,N,Recovered,64,M,2023
+FAERS_000658,1000657,Prinivil,Angioedema,Y,Hospitalization,68,F,2025
+FAERS_000659,1000658,ibuprofen,Rhabdomyolysis,Y,Life-threatening,44,F,2025
+FAERS_000660,1000659,paracetamol,Rash,Y,Recovered,62,M,2025
+FAERS_000661,1000660,Advil,Angioedema,Y,Hospitalization,48,M,2024
+FAERS_000662,1000661,Levaquin,Tendon rupture,N,Recovered,30,M,2024
+FAERS_000663,1000662,simvastatin,Rhabdomyolysis,Y,Hospitalization,58,M,2024
+FAERS_000664,1000663,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,48,M,2023
+FAERS_000665,1000664,metformin,Diabetic ketoacidosis,Y,Hospitalization,65,F,2023
+FAERS_000666,1000665,rivaroxaban,Gastrointestinal haemorrhage,Y,Life-threatening,35,M,2022
+FAERS_000667,1000666,rosuvastatin,Acute kidney injury,N,Recovered,78,M,2023
+FAERS_000668,1000667,rosuvastatin,Tendon rupture,N,Recovered,66,M,2024
+FAERS_000669,1000668,apixaban,Alanine aminotransferase increased,N,Recovered,83,F,2023
+FAERS_000670,1000669,Zocor,Myalgia,N,Recovered,39,F,2024
+FAERS_000671,1000670,Xarelto,Gastrointestinal haemorrhage,Y,Hospitalization,52,M,2024
+FAERS_000672,1000671,ibuprofen,Acute kidney injury,Y,Life-threatening,56,F,2023
+FAERS_000673,1000672,Xarelto,Gastrointestinal haemorrhage,Y,Hospitalization,42,M,2023
+FAERS_000674,1000673,atorvastatin,Gastrointestinal haemorrhage,Y,Hospitalization,58,M,2023
+FAERS_000675,1000674,Xarelto,Hepatic failure,Y,Hospitalization,57,M,2023
+FAERS_000676,1000675,ibuprofen,Acute kidney injury,N,Recovered,45,F,2022
+FAERS_000677,1000676,Xarelto,Rash,N,Recovered,68,M,2023
+FAERS_000678,1000677,simvastatin,Diabetic ketoacidosis,Y,Hospitalization,53,F,2022
+FAERS_000679,1000678,Cipro,Tendon rupture,Y,Hospitalization,62,F,2025
+FAERS_000680,1000679,Advil,Rash,N,Recovered,55,F,2024
+FAERS_000681,1000680,Levaquin,Rhabdomyolysis,Y,Other serious,74,M,2023
+FAERS_000682,1000681,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,37,M,2023
+FAERS_000683,1000682,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,77,M,2025
+FAERS_000684,1000683,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,74,M,2024
+FAERS_000685,1000684,Xarelto,Headache,Y,Other serious,56,M,2022
+FAERS_000686,1000685,metformin,Nausea,Y,Hospitalization,61,M,2023
+FAERS_000687,1000686,ibuprofen,Myalgia,Y,Hospitalization,69,M,2025
+FAERS_000688,1000687,Eliquis,Diabetic ketoacidosis,Y,Other serious,89,UNK,2022
+FAERS_000689,1000688,ibuprofen,Nausea,N,Recovered,40,UNK,2022
+FAERS_000690,1000689,levofloxacin,Hypoglycaemia,N,Recovered,38,M,2023
+FAERS_000691,1000690,Xarelto,Gastrointestinal haemorrhage,Y,Recovered,66,M,2024
+FAERS_000692,1000691,rivaroxaban,Hypoglycaemia,Y,Hospitalization,72,F,2023
+FAERS_000693,1000692,Plavix,Dizziness,N,Recovered,53,F,2023
+FAERS_000694,1000693,Prinivil,Acute kidney injury,Y,Hospitalization,45,M,2024
+FAERS_000695,1000694,canagliflozin,Diabetic ketoacidosis,Y,Recovered,78,F,2022
+FAERS_000696,1000695,Prinivil,Tendon rupture,N,Recovered,53,F,2024
+FAERS_000697,1000696,Plavix,Gastrointestinal haemorrhage,Y,Other serious,49,M,2023
+FAERS_000698,1000697,simvastatin,Rhabdomyolysis,Y,Hospitalization,69,F,2025
+FAERS_000699,1000698,Crestor,Rhabdomyolysis,Y,Other serious,73,M,2023
+FAERS_000700,1000699,rosuvastatin,Rhabdomyolysis,Y,Other serious,91,F,2023
+FAERS_000701,1000700,atorvastatin,Acute kidney injury,Y,Hospitalization,83,F,2023
+FAERS_000702,1000701,canagliflozin,Myalgia,N,Recovered,55,M,2023
+FAERS_000703,1000702,apixaban,Gastrointestinal haemorrhage,Y,Recovered,56,F,2024
+FAERS_000704,1000703,levofloxacin,Angioedema,Y,Hospitalization,67,M,2024
+FAERS_000705,1000704,metformin,Headache,N,Recovered,47,M,2023
+FAERS_000706,1000705,Zocor,Myalgia,Y,Recovered,49,F,2024
+FAERS_000707,1000706,Jardiance,Rash,Y,Other serious,66,M,2022
+FAERS_000708,1000707,clopidogrel,Tendon rupture,N,Recovered,58,M,2024
+FAERS_000709,1000708,atorvastatin,Hypoglycaemia,N,Recovered,69,M,2024
+FAERS_000710,1000709,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,64,M,2021
+FAERS_000711,1000710,Eliquis,Acute kidney injury,Y,Hospitalization,81,M,2021
+FAERS_000712,1000711,Zocor,Rhabdomyolysis,Y,Other serious,73,M,2023
+FAERS_000713,1000712,clopidogrel,Rash,N,Recovered,67,F,2022
+FAERS_000714,1000713,Glucophage,Rhabdomyolysis,Y,Hospitalization,65,M,2023
+FAERS_000715,1000714,metformin,Angioedema,Y,Recovered,95,F,2025
+FAERS_000716,1000715,rosuvastatin,Myalgia,N,Recovered,49,M,2025
+FAERS_000717,1000716,Plavix,Nausea,Y,Hospitalization,51,M,2021
+FAERS_000718,1000717,Tylenol,Tendon rupture,N,Recovered,50,F,2022
+FAERS_000719,1000718,Tylenol,Gastrointestinal haemorrhage,Y,Other serious,76,F,2022
+FAERS_000720,1000719,ibuprofen,Acute kidney injury,N,Recovered,74,F,2023
+FAERS_000721,1000720,canagliflozin,Diabetic ketoacidosis,Y,Recovered,69,F,2023
+FAERS_000722,1000721,Xarelto,Diabetic ketoacidosis,Y,Other serious,75,F,2025
+FAERS_000723,1000722,Cipro,Tendon rupture,N,Recovered,68,F,2023
+FAERS_000724,1000723,clopidogrel,Myalgia,Y,Other serious,75,M,2025
+FAERS_000725,1000724,Cipro,Acute kidney injury,N,Recovered,49,F,2022
+FAERS_000726,1000725,paracetamol,Rhabdomyolysis,Y,Life-threatening,50,M,2022
+FAERS_000727,1000726,atorvastatin,Rhabdomyolysis,Y,Other serious,62,F,2021
+FAERS_000728,1000727,ibuprofen,Tendon rupture,N,Recovered,76,F,2023
+FAERS_000729,1000728,Advil,Gastrointestinal haemorrhage,Y,Life-threatening,69,F,2023
+FAERS_000730,1000729,apixaban,Gastrointestinal haemorrhage,Y,Recovered,55,F,2024
+FAERS_000731,1000730,Levaquin,Tendon rupture,Y,Recovered,77,M,2025
+FAERS_000732,1000731,ibuprofen,Gastrointestinal haemorrhage,Y,Recovered,34,F,2024
+FAERS_000733,1000732,Lipitor,Rhabdomyolysis,Y,Hospitalization,72,M,2022
+FAERS_000734,1000733,Xarelto,Hypoglycaemia,N,Recovered,48,M,2024
+FAERS_000735,1000734,ciprofloxacin,Tendon rupture,N,Recovered,50,F,2021
+FAERS_000736,1000735,Levaquin,Acute kidney injury,N,Recovered,75,F,2025
+FAERS_000737,1000736,ibuprofen,Dizziness,N,Recovered,54,F,2022
+FAERS_000738,1000737,simvastatin,Rhabdomyolysis,Y,Other serious,62,F,2023
+FAERS_000739,1000738,Advil,Headache,Y,Hospitalization,71,M,2024
+FAERS_000740,1000739,Levaquin,Tendon rupture,N,Recovered,54,F,2022
+FAERS_000741,1000740,Eliquis,Gastrointestinal haemorrhage,Y,Life-threatening,36,F,2025
+FAERS_000742,1000741,Jardiance,Rhabdomyolysis,Y,Hospitalization,44,F,2021
+FAERS_000743,1000742,Levaquin,Acute kidney injury,Y,Hospitalization,68,M,2024
+FAERS_000744,1000743,Crestor,Rhabdomyolysis,Y,Hospitalization,54,F,2023
+FAERS_000745,1000744,Tylenol,Tendon rupture,N,Recovered,59,F,2021
+FAERS_000746,1000745,Lipitor,Fatigue,N,Recovered,65,M,2024
+FAERS_000747,1000746,Advil,Rash,Y,Life-threatening,57,F,2024
+FAERS_000748,1000747,canagliflozin,Headache,N,Recovered,84,F,2022
+FAERS_000749,1000748,simvastatin,Gastrointestinal haemorrhage,Y,Other serious,54,M,2025
+FAERS_000750,1000749,apixaban,Angioedema,Y,Other serious,60,M,2023
+FAERS_000751,1000750,atorvastatin,Rhabdomyolysis,Y,Recovered,95,M,2023
+FAERS_000752,1000751,Crestor,Myalgia,N,Recovered,64,M,2023
+FAERS_000753,1000752,apixaban,Myalgia,N,Recovered,88,F,2024
+FAERS_000754,1000753,rosuvastatin,Hypoglycaemia,Y,Hospitalization,71,M,2022
+FAERS_000755,1000754,canagliflozin,Headache,N,Recovered,84,F,2022
+FAERS_000756,1000755,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,64,M,2025
+FAERS_000757,1000756,Plavix,Rash,Y,Hospitalization,77,F,2023
+FAERS_000758,1000757,clopidogrel,Nausea,N,Recovered,65,F,2022
+FAERS_000759,1000758,Eliquis,Gastrointestinal haemorrhage,Y,Recovered,54,M,2023
+FAERS_000760,1000759,apixaban,Tendon rupture,Y,Other serious,76,M,2022
+FAERS_000761,1000760,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,58,M,2024
+FAERS_000762,1000761,levofloxacin,Nausea,Y,Hospitalization,70,F,2025
+FAERS_000763,1000762,Cipro,Tendon rupture,N,Recovered,89,M,2024
+FAERS_000764,1000763,Crestor,Dizziness,N,Recovered,60,F,2022
+FAERS_000765,1000764,clopidogrel,Fatigue,N,Recovered,69,UNK,2024
+FAERS_000766,1000765,lisinopril,Nausea,Y,Life-threatening,68,F,2023
+FAERS_000767,1000766,ciprofloxacin,Nausea,N,Recovered,51,F,2022
+FAERS_000768,1000767,Invokana,Diabetic ketoacidosis,Y,Hospitalization,80,F,2023
+FAERS_000769,1000768,paracetamol,Angioedema,Y,Hospitalization,28,F,2024
+FAERS_000770,1000769,apixaban,Alanine aminotransferase increased,N,Recovered,71,F,2024
+FAERS_000771,1000770,Advil,Angioedema,Y,Recovered,42,M,2021
+FAERS_000772,1000771,paracetamol,Diabetic ketoacidosis,Y,Other serious,45,F,2024
+FAERS_000773,1000772,lisinopril,Myalgia,Y,Recovered,62,F,2022
+FAERS_000774,1000773,ibuprofen,Diabetic ketoacidosis,Y,Recovered,72,M,2023
+FAERS_000775,1000774,paracetamol,Fatigue,N,Recovered,58,F,2022
+FAERS_000776,1000775,Zocor,Tendon rupture,Y,Life-threatening,52,M,2021
+FAERS_000777,1000776,metformin,Fatigue,Y,Recovered,67,F,2022
+FAERS_000778,1000777,simvastatin,Hepatic failure,Y,Hospitalization,64,F,2024
+FAERS_000779,1000778,Crestor,Diabetic ketoacidosis,Y,Recovered,52,M,2024
+FAERS_000780,1000779,Eliquis,Tendon rupture,N,Recovered,61,M,2021
+FAERS_000781,1000780,simvastatin,Rhabdomyolysis,Y,Hospitalization,55,M,2023
+FAERS_000782,1000781,rivaroxaban,Dizziness,N,Recovered,61,F,2022
+FAERS_000783,1000782,empagliflozin,Hepatic failure,Y,Hospitalization,68,F,2021
+FAERS_000784,1000783,paracetamol,Acute kidney injury,N,Recovered,70,M,2024
+FAERS_000785,1000784,canagliflozin,Diabetic ketoacidosis,Y,Recovered,63,M,2022
+FAERS_000786,1000785,Advil,Tendon rupture,N,Recovered,54,M,2023
+FAERS_000787,1000786,levofloxacin,Tendon rupture,Y,Recovered,51,F,2024
+FAERS_000788,1000787,Invokana,Headache,Y,Hospitalization,53,M,2024
+FAERS_000789,1000788,metformin,Myalgia,N,Recovered,54,M,2023
+FAERS_000790,1000789,ibuprofen,Hepatic failure,Y,Hospitalization,39,M,2021
+FAERS_000791,1000790,empagliflozin,Rhabdomyolysis,Y,Recovered,65,F,2022
+FAERS_000792,1000791,Zocor,Dizziness,N,Recovered,76,F,2022
+FAERS_000793,1000792,clopidogrel,Headache,Y,Hospitalization,74,F,2023
+FAERS_000794,1000793,apixaban,Dizziness,Y,Other serious,61,F,2021
+FAERS_000795,1000794,Prinivil,Hypoglycaemia,Y,Recovered,65,F,2023
+FAERS_000796,1000795,rivaroxaban,Rash,N,Recovered,54,F,2024
+FAERS_000797,1000796,Prinivil,Angioedema,Y,Life-threatening,74,M,2024
+FAERS_000798,1000797,Crestor,Angioedema,Y,Hospitalization,55,F,2023
+FAERS_000799,1000798,apixaban,Acute kidney injury,Y,Hospitalization,56,M,2025
+FAERS_000800,1000799,ciprofloxacin,Rash,Y,Hospitalization,33,M,2023
+FAERS_000801,1000800,canagliflozin,Rhabdomyolysis,Y,Recovered,63,F,2023
+FAERS_000802,1000801,Zocor,Myalgia,N,Recovered,49,F,2025
+FAERS_000803,1000802,lisinopril,Angioedema,Y,Other serious,89,M,2024
+FAERS_000804,1000803,Tylenol,Headache,N,Recovered,46,M,2022
+FAERS_000805,1000804,ibuprofen,Hypoglycaemia,N,Recovered,60,M,2022
+FAERS_000806,1000805,Jardiance,Myalgia,N,Recovered,56,F,2023
+FAERS_000807,1000806,atorvastatin,Angioedema,Y,Other serious,46,M,2022
+FAERS_000808,1000807,paracetamol,Dizziness,Y,Other serious,61,M,2024
+FAERS_000809,1000808,clopidogrel,Dizziness,N,Recovered,77,M,2022
+FAERS_000810,1000809,Plavix,Gastrointestinal haemorrhage,Y,Hospitalization,53,F,2024
+FAERS_000811,1000810,Cipro,Diabetic ketoacidosis,Y,Life-threatening,78,M,2023
+FAERS_000812,1000811,Prinivil,Angioedema,Y,Life-threatening,62,F,2022
+FAERS_000813,1000812,Crestor,Gastrointestinal haemorrhage,Y,Other serious,48,M,2024
+FAERS_000814,1000813,apixaban,Tendon rupture,N,Recovered,59,M,2024
+FAERS_000815,1000814,Advil,Myalgia,N,Recovered,68,F,2022
+FAERS_000816,1000815,paracetamol,Alanine aminotransferase increased,Y,Hospitalization,75,M,2021
+FAERS_000817,1000816,atorvastatin,Dizziness,Y,Hospitalization,34,M,2023
+FAERS_000818,1000817,Tylenol,Rhabdomyolysis,Y,Hospitalization,54,F,2022
+FAERS_000819,1000818,Advil,Rhabdomyolysis,Y,Life-threatening,55,M,2024
+FAERS_000820,1000819,Tylenol,Rhabdomyolysis,Y,Recovered,67,M,2024
+FAERS_000821,1000820,Invokana,Dizziness,N,Recovered,62,F,2024
+FAERS_000822,1000821,rivaroxaban,Nausea,N,Recovered,38,F,2021
+FAERS_000823,1000822,Eliquis,Nausea,N,Recovered,33,F,2024
+FAERS_000824,1000823,Prinivil,Angioedema,Y,Hospitalization,57,F,2021
+FAERS_000825,1000824,Prinivil,Acute kidney injury,Y,Hospitalization,60,F,2023
+FAERS_000826,1000825,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,77,F,2025
+FAERS_000827,1000826,empagliflozin,Angioedema,Y,Other serious,88,F,2022
+FAERS_000828,1000827,ibuprofen,Rhabdomyolysis,Y,Hospitalization,66,F,2021
+FAERS_000829,1000828,Eliquis,Hypoglycaemia,N,Recovered,54,M,2021
+FAERS_000830,1000829,levofloxacin,Nausea,N,Recovered,57,F,2021
+FAERS_000831,1000830,rivaroxaban,Gastrointestinal haemorrhage,Y,Hospitalization,61,F,2024
+FAERS_000832,1000831,paracetamol,Rhabdomyolysis,Y,Hospitalization,59,F,2022
+FAERS_000833,1000832,Glucophage,Myalgia,N,Recovered,75,F,2022
+FAERS_000834,1000833,atorvastatin,Myalgia,N,Recovered,80,M,2022
+FAERS_000835,1000834,Jardiance,Diabetic ketoacidosis,Y,Life-threatening,51,F,2025
+FAERS_000836,1000835,canagliflozin,Diabetic ketoacidosis,Y,Hospitalization,44,M,2022
+FAERS_000837,1000836,simvastatin,Rhabdomyolysis,Y,Hospitalization,39,M,2023
+FAERS_000838,1000837,levofloxacin,Tendon rupture,N,Recovered,44,F,2023
+FAERS_000839,1000838,Cipro,Dizziness,N,Recovered,55,M,2024
+FAERS_000840,1000839,Glucophage,Gastrointestinal haemorrhage,Y,Hospitalization,80,F,2025
+FAERS_000841,1000840,atorvastatin,Hepatic failure,Y,Recovered,57,M,2025
+FAERS_000842,1000841,Tylenol,Hypoglycaemia,Y,Other serious,79,F,2022
+FAERS_000843,1000842,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,51,M,2024
+FAERS_000844,1000843,Tylenol,Gastrointestinal haemorrhage,Y,Recovered,52,UNK,2025
+FAERS_000845,1000844,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,49,M,2023
+FAERS_000846,1000845,lisinopril,Fatigue,Y,Recovered,81,F,2022
+FAERS_000847,1000846,atorvastatin,Myalgia,Y,Other serious,53,F,2023
+FAERS_000848,1000847,rivaroxaban,Nausea,Y,Hospitalization,54,F,2025
+FAERS_000849,1000848,Prinivil,Nausea,Y,Hospitalization,30,M,2023
+FAERS_000850,1000849,apixaban,Acute kidney injury,N,Recovered,49,M,2023
+FAERS_000851,1000850,Crestor,Rhabdomyolysis,Y,Recovered,36,F,2021
+FAERS_000852,1000851,atorvastatin,Rhabdomyolysis,Y,Life-threatening,55,F,2022
+FAERS_000853,1000852,simvastatin,Fatigue,N,Recovered,41,F,2024
+FAERS_000854,1000853,Levaquin,Tendon rupture,N,Recovered,74,F,2022
+FAERS_000855,1000854,Zocor,Myalgia,N,Recovered,35,M,2023
+FAERS_000856,1000855,Plavix,Gastrointestinal haemorrhage,Y,Other serious,61,M,2021
+FAERS_000857,1000856,Prinivil,Fatigue,N,Recovered,60,M,2024
+FAERS_000858,1000857,apixaban,Dizziness,Y,Hospitalization,73,M,2021
+FAERS_000859,1000858,Plavix,Tendon rupture,Y,Recovered,69,M,2024
+FAERS_000860,1000859,Tylenol,Hepatic failure,Y,Other serious,73,M,2022
+FAERS_000861,1000860,Lipitor,Fatigue,Y,Recovered,72,UNK,2025
+FAERS_000862,1000861,levofloxacin,Rash,N,Recovered,69,M,2024
+FAERS_000863,1000862,Eliquis,Angioedema,Y,Life-threatening,60,F,2024
+FAERS_000864,1000863,Zocor,Myalgia,N,Recovered,56,M,2025
+FAERS_000865,1000864,canagliflozin,Tendon rupture,N,Recovered,57,M,2024
+FAERS_000866,1000865,simvastatin,Dizziness,N,Recovered,30,M,2021
+FAERS_000867,1000866,Lipitor,Rhabdomyolysis,Y,Recovered,37,M,2024
+FAERS_000868,1000867,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,30,F,2025
+FAERS_000869,1000868,Advil,Gastrointestinal haemorrhage,Y,Life-threatening,69,M,2024
+FAERS_000870,1000869,Eliquis,Headache,N,Recovered,71,M,2024
+FAERS_000871,1000870,ciprofloxacin,Alanine aminotransferase increased,N,Recovered,78,M,2021
+FAERS_000872,1000871,lisinopril,Headache,Y,Hospitalization,66,M,2023
+FAERS_000873,1000872,Tylenol,Hypoglycaemia,N,Recovered,83,F,2022
+FAERS_000874,1000873,Xarelto,Myalgia,N,Recovered,69,F,2025
+FAERS_000875,1000874,empagliflozin,Headache,N,Recovered,88,F,2024
+FAERS_000876,1000875,canagliflozin,Angioedema,Y,Recovered,79,F,2022
+FAERS_000877,1000876,Levaquin,Tendon rupture,Y,Hospitalization,63,M,2024
+FAERS_000878,1000877,canagliflozin,Diabetic ketoacidosis,Y,Other serious,55,F,2021
+FAERS_000879,1000878,clopidogrel,Nausea,N,Recovered,67,M,2022
+FAERS_000880,1000879,Invokana,Dizziness,N,Recovered,48,M,2023
+FAERS_000881,1000880,empagliflozin,Diabetic ketoacidosis,Y,Other serious,38,F,2022
+FAERS_000882,1000881,atorvastatin,Acute kidney injury,N,Recovered,57,M,2023
+FAERS_000883,1000882,rivaroxaban,Hypoglycaemia,Y,Life-threatening,53,M,2021
+FAERS_000884,1000883,Lipitor,Rhabdomyolysis,Y,Hospitalization,48,M,2024
+FAERS_000885,1000884,Advil,Angioedema,Y,Recovered,80,F,2024
+FAERS_000886,1000885,Glucophage,Alanine aminotransferase increased,N,Recovered,44,M,2023
+FAERS_000887,1000886,Tylenol,Hepatic failure,Y,Recovered,47,M,2023
+FAERS_000888,1000887,apixaban,Rash,Y,Other serious,54,F,2022
+FAERS_000889,1000888,levofloxacin,Hypoglycaemia,Y,Life-threatening,40,M,2023
+FAERS_000890,1000889,Invokana,Diabetic ketoacidosis,Y,Hospitalization,61,F,2024
+FAERS_000891,1000890,rosuvastatin,Hepatic failure,Y,Recovered,65,F,2022
+FAERS_000892,1000891,Cipro,Myalgia,N,Recovered,72,M,2021
+FAERS_000893,1000892,Invokana,Diabetic ketoacidosis,Y,Other serious,59,M,2023
+FAERS_000894,1000893,paracetamol,Headache,N,Recovered,64,F,2021
+FAERS_000895,1000894,Lipitor,Tendon rupture,N,Recovered,63,F,2025
+FAERS_000896,1000895,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,59,M,2021
+FAERS_000897,1000896,Crestor,Rhabdomyolysis,Y,Life-threatening,58,UNK,2024
+FAERS_000898,1000897,Prinivil,Diabetic ketoacidosis,Y,Hospitalization,52,F,2022
+FAERS_000899,1000898,Jardiance,Rash,N,Recovered,72,F,2024
+FAERS_000900,1000899,canagliflozin,Nausea,N,Recovered,63,M,2023
+FAERS_000901,1000900,Glucophage,Gastrointestinal haemorrhage,Y,Life-threatening,63,M,2024
+FAERS_000902,1000901,Invokana,Rhabdomyolysis,Y,Recovered,62,F,2023
+FAERS_000903,1000902,Glucophage,Myalgia,N,Recovered,51,F,2022
+FAERS_000904,1000903,Eliquis,Diabetic ketoacidosis,Y,Life-threatening,52,F,2025
+FAERS_000905,1000904,Cipro,Tendon rupture,N,Recovered,66,F,2023
+FAERS_000906,1000905,levofloxacin,Tendon rupture,N,Recovered,63,M,2024
+FAERS_000907,1000906,Tylenol,Acute kidney injury,Y,Recovered,45,M,2023
+FAERS_000908,1000907,Zocor,Rhabdomyolysis,Y,Hospitalization,56,M,2023
+FAERS_000909,1000908,levofloxacin,Tendon rupture,N,Recovered,41,UNK,2023
+FAERS_000910,1000909,simvastatin,Gastrointestinal haemorrhage,Y,Recovered,80,F,2023
+FAERS_000911,1000910,Xarelto,Hypoglycaemia,N,Recovered,59,M,2025
+FAERS_000912,1000911,simvastatin,Hypoglycaemia,Y,Hospitalization,42,F,2023
+FAERS_000913,1000912,levofloxacin,Tendon rupture,N,Recovered,82,M,2022
+FAERS_000914,1000913,Prinivil,Dizziness,Y,Other serious,58,M,2023
+FAERS_000915,1000914,simvastatin,Rhabdomyolysis,Y,Other serious,54,M,2025
+FAERS_000916,1000915,Eliquis,Tendon rupture,N,Recovered,85,UNK,2021
+FAERS_000917,1000916,canagliflozin,Diabetic ketoacidosis,Y,Recovered,45,UNK,2023
+FAERS_000918,1000917,Plavix,Alanine aminotransferase increased,N,Recovered,50,M,2022
+FAERS_000919,1000918,empagliflozin,Dizziness,N,Recovered,66,M,2022
+FAERS_000920,1000919,Tylenol,Alanine aminotransferase increased,N,Recovered,53,M,2024
+FAERS_000921,1000920,Lipitor,Myalgia,N,Recovered,48,F,2024
+FAERS_000922,1000921,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,41,F,2021
+FAERS_000923,1000922,Levaquin,Nausea,N,Recovered,45,F,2022
+FAERS_000924,1000923,Plavix,Headache,N,Recovered,53,F,2022
+FAERS_000925,1000924,atorvastatin,Rhabdomyolysis,Y,Life-threatening,52,UNK,2023
+FAERS_000926,1000925,Eliquis,Gastrointestinal haemorrhage,Y,Recovered,40,F,2025
+FAERS_000927,1000926,Advil,Angioedema,Y,Recovered,33,F,2021
+FAERS_000928,1000927,atorvastatin,Dizziness,N,Recovered,91,F,2021
+FAERS_000929,1000928,Tylenol,Diabetic ketoacidosis,Y,Hospitalization,46,UNK,2023
+FAERS_000930,1000929,ibuprofen,Headache,N,Recovered,67,F,2024
+FAERS_000931,1000930,Zocor,Gastrointestinal haemorrhage,Y,Hospitalization,62,F,2024
+FAERS_000932,1000931,Prinivil,Acute kidney injury,N,Recovered,77,UNK,2025
+FAERS_000933,1000932,ciprofloxacin,Headache,Y,Hospitalization,68,F,2024
+FAERS_000934,1000933,ciprofloxacin,Nausea,N,Recovered,63,F,2023
+FAERS_000935,1000934,Zocor,Myalgia,N,Recovered,47,M,2025
+FAERS_000936,1000935,Lipitor,Rhabdomyolysis,Y,Hospitalization,60,M,2023
+FAERS_000937,1000936,paracetamol,Tendon rupture,N,Recovered,18,F,2024
+FAERS_000938,1000937,levofloxacin,Alanine aminotransferase increased,N,Recovered,50,F,2025
+FAERS_000939,1000938,clopidogrel,Angioedema,Y,Recovered,67,F,2021
+FAERS_000940,1000939,Levaquin,Tendon rupture,N,Recovered,62,M,2023
+FAERS_000941,1000940,canagliflozin,Diabetic ketoacidosis,Y,Life-threatening,45,M,2022
+FAERS_000942,1000941,Xarelto,Myalgia,Y,Life-threatening,78,M,2024
+FAERS_000943,1000942,Glucophage,Rhabdomyolysis,Y,Hospitalization,47,F,2024
+FAERS_000944,1000943,apixaban,Fatigue,Y,Life-threatening,95,F,2021
+FAERS_000945,1000944,apixaban,Gastrointestinal haemorrhage,Y,Recovered,71,F,2022
+FAERS_000946,1000945,rivaroxaban,Nausea,Y,Hospitalization,59,M,2024
+FAERS_000947,1000946,Crestor,Fatigue,Y,Hospitalization,70,F,2022
+FAERS_000948,1000947,Zocor,Rhabdomyolysis,Y,Hospitalization,70,F,2021
+FAERS_000949,1000948,Cipro,Gastrointestinal haemorrhage,Y,Hospitalization,64,F,2023
+FAERS_000950,1000949,Xarelto,Fatigue,N,Recovered,70,F,2022
+FAERS_000951,1000950,ibuprofen,Headache,Y,Hospitalization,63,F,2021
+FAERS_000952,1000951,Glucophage,Dizziness,N,Recovered,70,F,2021
+FAERS_000953,1000952,rivaroxaban,Myalgia,Y,Recovered,69,M,2023
+FAERS_000954,1000953,Advil,Rhabdomyolysis,Y,Hospitalization,66,M,2022
+FAERS_000955,1000954,atorvastatin,Hepatic failure,Y,Recovered,44,M,2022
+FAERS_000956,1000955,Levaquin,Hepatic failure,Y,Recovered,65,UNK,2021
+FAERS_000957,1000956,lisinopril,Nausea,N,Recovered,75,F,2025
+FAERS_000958,1000957,ibuprofen,Myalgia,Y,Recovered,81,F,2022
+FAERS_000959,1000958,Plavix,Fatigue,N,Recovered,52,F,2022
+FAERS_000960,1000959,levofloxacin,Nausea,N,Recovered,65,F,2021
+FAERS_000961,1000960,Xarelto,Rhabdomyolysis,Y,Hospitalization,55,M,2023
+FAERS_000962,1000961,atorvastatin,Nausea,Y,Recovered,67,M,2023
+FAERS_000963,1000962,levofloxacin,Dizziness,N,Recovered,54,F,2025
+FAERS_000964,1000963,Cipro,Angioedema,Y,Life-threatening,80,M,2023
+FAERS_000965,1000964,Plavix,Alanine aminotransferase increased,N,Recovered,52,F,2023
+FAERS_000966,1000965,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,52,F,2024
+FAERS_000967,1000966,Tylenol,Rash,N,Recovered,77,F,2024
+FAERS_000968,1000967,Lipitor,Diabetic ketoacidosis,Y,Other serious,31,F,2022
+FAERS_000969,1000968,Invokana,Hypoglycaemia,Y,Life-threatening,75,M,2025
+FAERS_000970,1000969,atorvastatin,Nausea,N,Recovered,42,M,2023
+FAERS_000971,1000970,canagliflozin,Alanine aminotransferase increased,N,Recovered,83,F,2022
+FAERS_000972,1000971,Zocor,Myalgia,Y,Hospitalization,67,UNK,2023
+FAERS_000973,1000972,Glucophage,Gastrointestinal haemorrhage,Y,Recovered,52,F,2022
+FAERS_000974,1000973,metformin,Diabetic ketoacidosis,Y,Life-threatening,58,F,2023
+FAERS_000975,1000974,Xarelto,Gastrointestinal haemorrhage,Y,Life-threatening,79,F,2025
+FAERS_000976,1000975,ibuprofen,Headache,N,Recovered,38,M,2022
+FAERS_000977,1000976,apixaban,Dizziness,N,Recovered,78,M,2021
+FAERS_000978,1000977,metformin,Rhabdomyolysis,Y,Other serious,76,M,2024
+FAERS_000979,1000978,Levaquin,Tendon rupture,N,Recovered,66,F,2022
+FAERS_000980,1000979,metformin,Gastrointestinal haemorrhage,Y,Hospitalization,86,M,2022
+FAERS_000981,1000980,Prinivil,Gastrointestinal haemorrhage,Y,Other serious,57,M,2022
+FAERS_000982,1000981,Lipitor,Myalgia,Y,Recovered,79,M,2023
+FAERS_000983,1000982,empagliflozin,Dizziness,Y,Life-threatening,32,F,2024
+FAERS_000984,1000983,Levaquin,Rash,N,Recovered,90,M,2023
+FAERS_000985,1000984,metformin,Angioedema,Y,Recovered,64,M,2024
+FAERS_000986,1000985,Eliquis,Gastrointestinal haemorrhage,Y,Other serious,72,F,2024
+FAERS_000987,1000986,Invokana,Diabetic ketoacidosis,Y,Recovered,69,F,2025
+FAERS_000988,1000987,Crestor,Acute kidney injury,Y,Life-threatening,49,M,2023
+FAERS_000989,1000988,Xarelto,Rhabdomyolysis,Y,Recovered,32,M,2025
+FAERS_000990,1000989,Xarelto,Myalgia,N,Recovered,61,F,2021
+FAERS_000991,1000990,clopidogrel,Gastrointestinal haemorrhage,Y,Other serious,71,M,2023
+FAERS_000992,1000991,Levaquin,Tendon rupture,N,Recovered,62,M,2025
+FAERS_000993,1000992,Glucophage,Gastrointestinal haemorrhage,Y,Life-threatening,61,M,2022
+FAERS_000994,1000993,Zocor,Nausea,Y,Recovered,66,F,2023
+FAERS_000995,1000994,empagliflozin,Hypoglycaemia,N,Recovered,64,F,2023
+FAERS_000996,1000995,ciprofloxacin,Gastrointestinal haemorrhage,Y,Hospitalization,52,M,2024
+FAERS_000997,1000996,Glucophage,Myalgia,N,Recovered,61,M,2023
+FAERS_000998,1000997,Glucophage,Gastrointestinal haemorrhage,Y,Hospitalization,69,M,2025
+FAERS_000999,1000998,Eliquis,Fatigue,N,Recovered,60,M,2024
+FAERS_001000,1000999,empagliflozin,Myalgia,Y,Other serious,57,F,2023
+FAERS_001001,1001000,Plavix,Gastrointestinal haemorrhage,Y,Recovered,81,F,2024
+FAERS_001002,1001001,Levaquin,Tendon rupture,N,Recovered,58,F,2021
+FAERS_001003,1001002,levofloxacin,Diabetic ketoacidosis,Y,Hospitalization,61,F,2022
+FAERS_001004,1001003,Prinivil,Angioedema,Y,Other serious,37,M,2022
+FAERS_001005,1001004,Zocor,Acute kidney injury,Y,Hospitalization,52,M,2023
+FAERS_001006,1001005,rosuvastatin,Headache,N,Recovered,70,M,2022
+FAERS_001007,1001006,clopidogrel,Hypoglycaemia,N,Recovered,67,F,2022
+FAERS_001008,1001007,atorvastatin,Rhabdomyolysis,Y,Recovered,75,M,2025
+FAERS_001009,1001008,Zocor,Hypoglycaemia,Y,Hospitalization,57,M,2025
+FAERS_001010,1001009,simvastatin,Rhabdomyolysis,Y,Life-threatening,64,F,2025
+FAERS_001011,1001010,Invokana,Diabetic ketoacidosis,Y,Life-threatening,66,F,2022
+FAERS_001012,1001011,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,63,F,2023
+FAERS_001013,1001012,rivaroxaban,Rhabdomyolysis,Y,Recovered,95,M,2024
+FAERS_001014,1001013,Xarelto,Hepatic failure,Y,Hospitalization,71,F,2025
+FAERS_001015,1001014,ibuprofen,Myalgia,N,Recovered,45,M,2024
+FAERS_001016,1001015,Zocor,Dizziness,Y,Other serious,65,F,2021
+FAERS_001017,1001016,Advil,Hepatic failure,Y,Other serious,59,M,2023
+FAERS_001018,1001017,Lipitor,Gastrointestinal haemorrhage,Y,Life-threatening,67,M,2024
+FAERS_001019,1001018,Xarelto,Tendon rupture,N,Recovered,69,M,2022
+FAERS_001020,1001019,Levaquin,Rash,N,Recovered,53,M,2022
+FAERS_001021,1001020,Levaquin,Tendon rupture,Y,Hospitalization,38,F,2023
+FAERS_001022,1001021,simvastatin,Hypoglycaemia,N,Recovered,79,M,2025
+FAERS_001023,1001022,Prinivil,Angioedema,Y,Life-threatening,66,F,2023
+FAERS_001024,1001023,metformin,Gastrointestinal haemorrhage,Y,Life-threatening,90,M,2023
+FAERS_001025,1001024,rivaroxaban,Dizziness,N,Recovered,70,F,2024
+FAERS_001026,1001025,paracetamol,Alanine aminotransferase increased,N,Recovered,75,F,2024
+FAERS_001027,1001026,Plavix,Gastrointestinal haemorrhage,Y,Recovered,85,M,2024
+FAERS_001028,1001027,clopidogrel,Rash,Y,Other serious,49,M,2024
+FAERS_001029,1001028,levofloxacin,Tendon rupture,N,Recovered,56,M,2022
+FAERS_001030,1001029,apixaban,Gastrointestinal haemorrhage,Y,Recovered,73,M,2024
+FAERS_001031,1001030,clopidogrel,Myalgia,N,Recovered,79,M,2021
+FAERS_001032,1001031,paracetamol,Hepatic failure,Y,Other serious,55,M,2024
+FAERS_001033,1001032,Invokana,Diabetic ketoacidosis,Y,Recovered,43,F,2023
+FAERS_001034,1001033,Levaquin,Diabetic ketoacidosis,Y,Hospitalization,72,M,2024
+FAERS_001035,1001034,Glucophage,Alanine aminotransferase increased,N,Recovered,51,F,2022
+FAERS_001036,1001035,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,63,M,2024
+FAERS_001037,1001036,Levaquin,Acute kidney injury,Y,Hospitalization,77,F,2022
+FAERS_001038,1001037,Prinivil,Angioedema,Y,Recovered,57,M,2024
+FAERS_001039,1001038,Invokana,Diabetic ketoacidosis,Y,Recovered,68,M,2023
+FAERS_001040,1001039,Tylenol,Diabetic ketoacidosis,Y,Recovered,50,F,2021
+FAERS_001041,1001040,ibuprofen,Alanine aminotransferase increased,Y,Life-threatening,77,M,2021
+FAERS_001042,1001041,clopidogrel,Angioedema,Y,Other serious,64,F,2022
+FAERS_001043,1001042,clopidogrel,Rhabdomyolysis,Y,Recovered,72,F,2025
+FAERS_001044,1001043,empagliflozin,Hypoglycaemia,N,Recovered,71,F,2025
+FAERS_001045,1001044,apixaban,Headache,Y,Other serious,45,UNK,2022
+FAERS_001046,1001045,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,66,M,2022
+FAERS_001047,1001046,atorvastatin,Alanine aminotransferase increased,Y,Life-threatening,74,F,2022
+FAERS_001048,1001047,rosuvastatin,Gastrointestinal haemorrhage,Y,Hospitalization,95,F,2024
+FAERS_001049,1001048,Zocor,Myalgia,N,Recovered,47,M,2023
+FAERS_001050,1001049,rivaroxaban,Dizziness,N,Recovered,65,F,2025
+FAERS_001051,1001050,Lipitor,Alanine aminotransferase increased,Y,Hospitalization,50,M,2024
+FAERS_001052,1001051,Plavix,Gastrointestinal haemorrhage,Y,Hospitalization,56,M,2023
+FAERS_001053,1001052,Invokana,Diabetic ketoacidosis,Y,Recovered,82,F,2025
+FAERS_001054,1001053,Prinivil,Tendon rupture,N,Recovered,64,M,2021
+FAERS_001055,1001054,ciprofloxacin,Tendon rupture,N,Recovered,62,F,2023
+FAERS_001056,1001055,canagliflozin,Fatigue,Y,Hospitalization,52,F,2024
+FAERS_001057,1001056,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,57,M,2025
+FAERS_001058,1001057,Tylenol,Fatigue,N,Recovered,76,F,2022
+FAERS_001059,1001058,levofloxacin,Tendon rupture,Y,Other serious,43,F,2021
+FAERS_001060,1001059,Levaquin,Diabetic ketoacidosis,Y,Recovered,31,M,2022
+FAERS_001061,1001060,Eliquis,Acute kidney injury,N,Recovered,35,M,2022
+FAERS_001062,1001061,rivaroxaban,Gastrointestinal haemorrhage,Y,Hospitalization,66,M,2024
+FAERS_001063,1001062,atorvastatin,Headache,Y,Hospitalization,43,F,2024
+FAERS_001064,1001063,empagliflozin,Diabetic ketoacidosis,Y,Other serious,60,M,2025
+FAERS_001065,1001064,simvastatin,Rhabdomyolysis,Y,Other serious,62,M,2025
+FAERS_001066,1001065,Cipro,Rhabdomyolysis,Y,Hospitalization,45,F,2024
+FAERS_001067,1001066,levofloxacin,Rash,N,Recovered,73,F,2024
+FAERS_001068,1001067,ibuprofen,Rhabdomyolysis,Y,Other serious,67,F,2023
+FAERS_001069,1001068,canagliflozin,Fatigue,N,Recovered,64,M,2024
+FAERS_001070,1001069,canagliflozin,Rash,Y,Other serious,70,F,2025
+FAERS_001071,1001070,rivaroxaban,Alanine aminotransferase increased,N,Recovered,45,M,2024
+FAERS_001072,1001071,empagliflozin,Diabetic ketoacidosis,Y,Other serious,83,M,2021
+FAERS_001073,1001072,Prinivil,Angioedema,Y,Recovered,34,F,2022
+FAERS_001074,1001073,lisinopril,Angioedema,Y,Other serious,78,M,2022
+FAERS_001075,1001074,Prinivil,Rash,N,Recovered,25,M,2024
+FAERS_001076,1001075,ciprofloxacin,Rhabdomyolysis,Y,Life-threatening,43,F,2025
+FAERS_001077,1001076,Lipitor,Hypoglycaemia,N,Recovered,42,M,2024
+FAERS_001078,1001077,Cipro,Angioedema,Y,Recovered,75,M,2023
+FAERS_001079,1001078,Eliquis,Fatigue,N,Recovered,56,M,2021
+FAERS_001080,1001079,ibuprofen,Nausea,N,Recovered,46,M,2022
+FAERS_001081,1001080,Zocor,Headache,N,Recovered,54,F,2024
+FAERS_001082,1001081,Crestor,Myalgia,N,Recovered,78,F,2023
+FAERS_001083,1001082,empagliflozin,Diabetic ketoacidosis,Y,Recovered,56,M,2024
+FAERS_001084,1001083,Eliquis,Rash,Y,Hospitalization,63,F,2021
+FAERS_001085,1001084,Crestor,Rhabdomyolysis,Y,Hospitalization,50,F,2025
+FAERS_001086,1001085,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,53,F,2022
+FAERS_001087,1001086,levofloxacin,Headache,N,Recovered,50,M,2024
+FAERS_001088,1001087,clopidogrel,Headache,N,Recovered,84,M,2023
+FAERS_001089,1001088,canagliflozin,Hepatic failure,Y,Recovered,56,F,2024
+FAERS_001090,1001089,Eliquis,Headache,N,Recovered,38,M,2025
+FAERS_001091,1001090,paracetamol,Hepatic failure,Y,Other serious,61,F,2023
+FAERS_001092,1001091,Plavix,Gastrointestinal haemorrhage,Y,Life-threatening,41,M,2025
+FAERS_001093,1001092,lisinopril,Dizziness,N,Recovered,57,M,2023
+FAERS_001094,1001093,Cipro,Diabetic ketoacidosis,Y,Other serious,61,M,2022
+FAERS_001095,1001094,Plavix,Hypoglycaemia,N,Recovered,71,M,2025
+FAERS_001096,1001095,apixaban,Acute kidney injury,N,Recovered,53,M,2023
+FAERS_001097,1001096,atorvastatin,Nausea,N,Recovered,71,M,2021
+FAERS_001098,1001097,Jardiance,Hypoglycaemia,N,Recovered,95,M,2021
+FAERS_001099,1001098,Zocor,Myalgia,N,Recovered,44,UNK,2022
+FAERS_001100,1001099,Plavix,Angioedema,Y,Recovered,74,M,2023
+FAERS_001101,1001100,empagliflozin,Acute kidney injury,Y,Recovered,49,M,2024
+FAERS_001102,1001101,canagliflozin,Headache,Y,Recovered,71,M,2024
+FAERS_001103,1001102,metformin,Nausea,N,Recovered,51,F,2021
+FAERS_001104,1001103,levofloxacin,Acute kidney injury,N,Recovered,64,F,2023
+FAERS_001105,1001104,Plavix,Dizziness,Y,Recovered,71,M,2023
+FAERS_001106,1001105,Cipro,Gastrointestinal haemorrhage,Y,Hospitalization,78,F,2021
+FAERS_001107,1001106,Tylenol,Rash,N,Recovered,73,F,2023
+FAERS_001108,1001107,simvastatin,Tendon rupture,N,Recovered,54,F,2021
+FAERS_001109,1001108,Plavix,Fatigue,N,Recovered,48,F,2022
+FAERS_001110,1001109,Invokana,Diabetic ketoacidosis,Y,Hospitalization,66,F,2023
+FAERS_001111,1001110,Prinivil,Nausea,Y,Hospitalization,30,M,2025
+FAERS_001112,1001111,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,48,M,2022
+FAERS_001113,1001112,simvastatin,Diabetic ketoacidosis,Y,Other serious,66,F,2024
+FAERS_001114,1001113,rosuvastatin,Rhabdomyolysis,Y,Recovered,55,M,2022
+FAERS_001115,1001114,Cipro,Tendon rupture,Y,Life-threatening,47,F,2022
+FAERS_001116,1001115,paracetamol,Nausea,Y,Other serious,62,F,2025
+FAERS_001117,1001116,Jardiance,Fatigue,N,Recovered,62,UNK,2023
+FAERS_001118,1001117,apixaban,Nausea,N,Recovered,58,F,2023
+FAERS_001119,1001118,clopidogrel,Rhabdomyolysis,Y,Life-threatening,53,F,2022
+FAERS_001120,1001119,Crestor,Hepatic failure,Y,Recovered,60,F,2023
+FAERS_001121,1001120,ciprofloxacin,Tendon rupture,N,Recovered,36,M,2024
+FAERS_001122,1001121,apixaban,Gastrointestinal haemorrhage,Y,Recovered,65,M,2023
+FAERS_001123,1001122,lisinopril,Dizziness,N,Recovered,41,UNK,2025
+FAERS_001124,1001123,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,53,M,2024
+FAERS_001125,1001124,clopidogrel,Tendon rupture,N,Recovered,55,F,2023
+FAERS_001126,1001125,rosuvastatin,Myalgia,N,Recovered,44,M,2023
+FAERS_001127,1001126,Advil,Rhabdomyolysis,Y,Other serious,63,F,2025
+FAERS_001128,1001127,Levaquin,Rhabdomyolysis,Y,Life-threatening,76,M,2025
+FAERS_001129,1001128,Lipitor,Dizziness,N,Recovered,30,F,2021
+FAERS_001130,1001129,rosuvastatin,Rhabdomyolysis,Y,Recovered,59,M,2025
+FAERS_001131,1001130,Eliquis,Rhabdomyolysis,Y,Other serious,35,M,2021
+FAERS_001132,1001131,ibuprofen,Myalgia,Y,Life-threatening,65,M,2025
+FAERS_001133,1001132,Eliquis,Rash,Y,Other serious,71,M,2023
+FAERS_001134,1001133,Prinivil,Angioedema,Y,Recovered,50,M,2025
+FAERS_001135,1001134,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,80,M,2023
+FAERS_001136,1001135,Crestor,Gastrointestinal haemorrhage,Y,Recovered,62,F,2024
+FAERS_001137,1001136,lisinopril,Angioedema,Y,Other serious,95,M,2024
+FAERS_001138,1001137,Prinivil,Acute kidney injury,N,Recovered,58,F,2024
+FAERS_001139,1001138,rosuvastatin,Myalgia,Y,Other serious,29,F,2023
+FAERS_001140,1001139,atorvastatin,Nausea,Y,Hospitalization,56,M,2024
+FAERS_001141,1001140,Crestor,Alanine aminotransferase increased,N,Recovered,50,M,2022
+FAERS_001142,1001141,Plavix,Myalgia,N,Recovered,64,M,2021
+FAERS_001143,1001142,Lipitor,Acute kidney injury,Y,Hospitalization,60,F,2023
+FAERS_001144,1001143,Tylenol,Dizziness,Y,Recovered,62,F,2022
+FAERS_001145,1001144,Plavix,Hepatic failure,Y,Hospitalization,44,F,2025
+FAERS_001146,1001145,Levaquin,Tendon rupture,N,Recovered,53,M,2023
+FAERS_001147,1001146,Tylenol,Myalgia,N,Recovered,56,M,2021
+FAERS_001148,1001147,Cipro,Dizziness,N,Recovered,72,F,2021
+FAERS_001149,1001148,Cipro,Tendon rupture,N,Recovered,77,F,2022
+FAERS_001150,1001149,Advil,Fatigue,Y,Hospitalization,44,M,2025
+FAERS_001151,1001150,Lipitor,Rhabdomyolysis,Y,Hospitalization,53,M,2024
+FAERS_001152,1001151,Crestor,Headache,Y,Life-threatening,64,M,2024
+FAERS_001153,1001152,Jardiance,Gastrointestinal haemorrhage,Y,Life-threatening,75,UNK,2024
+FAERS_001154,1001153,ibuprofen,Rhabdomyolysis,Y,Hospitalization,65,F,2024
+FAERS_001155,1001154,canagliflozin,Alanine aminotransferase increased,Y,Hospitalization,63,F,2024
+FAERS_001156,1001155,ciprofloxacin,Tendon rupture,N,Recovered,63,F,2024
+FAERS_001157,1001156,clopidogrel,Rash,Y,Other serious,62,M,2024
+FAERS_001158,1001157,clopidogrel,Diabetic ketoacidosis,Y,Other serious,61,F,2025
+FAERS_001159,1001158,Prinivil,Hepatic failure,Y,Other serious,49,F,2023
+FAERS_001160,1001159,metformin,Angioedema,Y,Hospitalization,52,F,2021
+FAERS_001161,1001160,atorvastatin,Rhabdomyolysis,Y,Recovered,37,F,2025
+FAERS_001162,1001161,Advil,Nausea,N,Recovered,49,M,2024
+FAERS_001163,1001162,paracetamol,Rhabdomyolysis,Y,Hospitalization,63,F,2024
+FAERS_001164,1001163,Crestor,Myalgia,Y,Hospitalization,29,F,2024
+FAERS_001165,1001164,Tylenol,Gastrointestinal haemorrhage,Y,Hospitalization,79,F,2024
+FAERS_001166,1001165,empagliflozin,Headache,N,Recovered,62,M,2021
+FAERS_001167,1001166,empagliflozin,Alanine aminotransferase increased,N,Recovered,71,F,2025
+FAERS_001168,1001167,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,54,F,2023
+FAERS_001169,1001168,Prinivil,Angioedema,Y,Hospitalization,79,M,2024
+FAERS_001170,1001169,Plavix,Fatigue,N,Recovered,66,F,2021
+FAERS_001171,1001170,ibuprofen,Angioedema,Y,Hospitalization,45,F,2021
+FAERS_001172,1001171,Xarelto,Fatigue,N,Recovered,63,F,2024
+FAERS_001173,1001172,Advil,Headache,N,Recovered,63,F,2023
+FAERS_001174,1001173,Xarelto,Hypoglycaemia,N,Recovered,47,M,2024
+FAERS_001175,1001174,levofloxacin,Rhabdomyolysis,Y,Other serious,75,M,2023
+FAERS_001176,1001175,levofloxacin,Acute kidney injury,N,Recovered,44,M,2024
+FAERS_001177,1001176,Glucophage,Tendon rupture,N,Recovered,41,M,2022
+FAERS_001178,1001177,Xarelto,Nausea,N,Recovered,53,F,2021
+FAERS_001179,1001178,Lipitor,Myalgia,N,Recovered,47,M,2021
+FAERS_001180,1001179,Prinivil,Myalgia,N,Recovered,56,F,2024
+FAERS_001181,1001180,Glucophage,Alanine aminotransferase increased,Y,Hospitalization,64,F,2025
+FAERS_001182,1001181,Zocor,Myalgia,N,Recovered,47,F,2021
+FAERS_001183,1001182,paracetamol,Nausea,Y,Recovered,80,F,2022
+FAERS_001184,1001183,Jardiance,Acute kidney injury,Y,Hospitalization,66,F,2024
+FAERS_001185,1001184,simvastatin,Myalgia,Y,Hospitalization,72,M,2024
+FAERS_001186,1001185,metformin,Nausea,N,Recovered,69,F,2025
+FAERS_001187,1001186,Zocor,Rhabdomyolysis,Y,Hospitalization,82,F,2023
+FAERS_001188,1001187,Invokana,Diabetic ketoacidosis,Y,Hospitalization,91,M,2024
+FAERS_001189,1001188,Eliquis,Gastrointestinal haemorrhage,Y,Recovered,64,M,2023
+FAERS_001190,1001189,ciprofloxacin,Angioedema,Y,Hospitalization,75,F,2021
+FAERS_001191,1001190,Plavix,Angioedema,Y,Hospitalization,53,M,2023
+FAERS_001192,1001191,Jardiance,Diabetic ketoacidosis,Y,Life-threatening,77,M,2022
+FAERS_001193,1001192,ciprofloxacin,Tendon rupture,Y,Life-threatening,68,M,2024
+FAERS_001194,1001193,Lipitor,Myalgia,Y,Life-threatening,50,F,2025
+FAERS_001195,1001194,Levaquin,Fatigue,N,Recovered,54,F,2023
+FAERS_001196,1001195,simvastatin,Dizziness,Y,Recovered,68,M,2024
+FAERS_001197,1001196,Zocor,Rhabdomyolysis,Y,Recovered,57,F,2022
+FAERS_001198,1001197,atorvastatin,Angioedema,Y,Hospitalization,35,M,2024
+FAERS_001199,1001198,rivaroxaban,Dizziness,Y,Recovered,50,F,2025
+FAERS_001200,1001199,metformin,Fatigue,N,Recovered,74,F,2024
+FAERS_001201,1001200,ibuprofen,Headache,Y,Other serious,43,M,2025
+FAERS_001202,1001201,Crestor,Rhabdomyolysis,Y,Life-threatening,79,F,2024
+FAERS_001203,1001202,empagliflozin,Nausea,N,Recovered,74,M,2022
+FAERS_001204,1001203,lisinopril,Alanine aminotransferase increased,Y,Other serious,42,F,2023
+FAERS_001205,1001204,empagliflozin,Angioedema,Y,Hospitalization,55,F,2024
+FAERS_001206,1001205,Lipitor,Myalgia,N,Recovered,56,M,2024
+FAERS_001207,1001206,Zocor,Myalgia,N,Recovered,62,F,2022
+FAERS_001208,1001207,Tylenol,Rhabdomyolysis,Y,Recovered,38,M,2023
+FAERS_001209,1001208,atorvastatin,Alanine aminotransferase increased,N,Recovered,64,F,2023
+FAERS_001210,1001209,ibuprofen,Hepatic failure,Y,Life-threatening,53,F,2022
+FAERS_001211,1001210,rosuvastatin,Myalgia,N,Recovered,64,M,2023
+FAERS_001212,1001211,Crestor,Hepatic failure,Y,Life-threatening,58,F,2023
+FAERS_001213,1001212,Crestor,Diabetic ketoacidosis,Y,Other serious,67,F,2022
+FAERS_001214,1001213,levofloxacin,Tendon rupture,N,Recovered,50,M,2022
+FAERS_001215,1001214,Cipro,Diabetic ketoacidosis,Y,Hospitalization,24,M,2022
+FAERS_001216,1001215,Invokana,Rash,N,Recovered,59,M,2021
+FAERS_001217,1001216,simvastatin,Hypoglycaemia,N,Recovered,54,M,2021
+FAERS_001218,1001217,Invokana,Nausea,N,Recovered,46,F,2023
+FAERS_001219,1001218,levofloxacin,Gastrointestinal haemorrhage,Y,Life-threatening,56,M,2023
+FAERS_001220,1001219,rivaroxaban,Alanine aminotransferase increased,N,Recovered,63,F,2022
+FAERS_001221,1001220,Cipro,Hepatic failure,Y,Life-threatening,62,F,2023
+FAERS_001222,1001221,rivaroxaban,Gastrointestinal haemorrhage,Y,Other serious,45,F,2022
+FAERS_001223,1001222,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,71,M,2021
+FAERS_001224,1001223,ciprofloxacin,Acute kidney injury,N,Recovered,72,M,2024
+FAERS_001225,1001224,Invokana,Rhabdomyolysis,Y,Life-threatening,75,F,2023
+FAERS_001226,1001225,paracetamol,Acute kidney injury,Y,Other serious,84,F,2022
+FAERS_001227,1001226,rosuvastatin,Myalgia,N,Recovered,67,M,2024
+FAERS_001228,1001227,Prinivil,Rash,N,Recovered,68,M,2021
+FAERS_001229,1001228,simvastatin,Nausea,N,Recovered,81,F,2022
+FAERS_001230,1001229,canagliflozin,Hypoglycaemia,Y,Other serious,43,F,2025
+FAERS_001231,1001230,Glucophage,Rash,Y,Other serious,90,F,2022
+FAERS_001232,1001231,clopidogrel,Angioedema,Y,Hospitalization,67,F,2021
+FAERS_001233,1001232,apixaban,Tendon rupture,N,Recovered,45,F,2024
+FAERS_001234,1001233,Cipro,Tendon rupture,Y,Life-threatening,62,M,2024
+FAERS_001235,1001234,empagliflozin,Diabetic ketoacidosis,Y,Recovered,55,F,2021
+FAERS_001236,1001235,Advil,Myalgia,N,Recovered,73,F,2025
+FAERS_001237,1001236,Tylenol,Headache,N,Recovered,76,M,2022
+FAERS_001238,1001237,clopidogrel,Nausea,Y,Recovered,74,M,2024
+FAERS_001239,1001238,atorvastatin,Angioedema,Y,Hospitalization,57,F,2023
+FAERS_001240,1001239,simvastatin,Dizziness,Y,Hospitalization,77,F,2022
+FAERS_001241,1001240,empagliflozin,Angioedema,Y,Recovered,50,M,2024
+FAERS_001242,1001241,Invokana,Myalgia,N,Recovered,71,M,2024
+FAERS_001243,1001242,Advil,Myalgia,N,Recovered,73,F,2021
+FAERS_001244,1001243,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,53,F,2023
+FAERS_001245,1001244,Cipro,Tendon rupture,N,Recovered,87,M,2021
+FAERS_001246,1001245,canagliflozin,Hypoglycaemia,Y,Life-threatening,58,M,2022
+FAERS_001247,1001246,rivaroxaban,Angioedema,Y,Recovered,61,M,2023
+FAERS_001248,1001247,atorvastatin,Rhabdomyolysis,Y,Recovered,57,F,2024
+FAERS_001249,1001248,ibuprofen,Hypoglycaemia,Y,Hospitalization,36,F,2022
+FAERS_001250,1001249,rosuvastatin,Angioedema,Y,Recovered,78,F,2025
+FAERS_001251,1001250,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,52,M,2023
+FAERS_001252,1001251,clopidogrel,Angioedema,Y,Hospitalization,43,M,2024
+FAERS_001253,1001252,paracetamol,Dizziness,N,Recovered,53,F,2025
+FAERS_001254,1001253,Eliquis,Myalgia,Y,Recovered,81,F,2024
+FAERS_001255,1001254,empagliflozin,Gastrointestinal haemorrhage,Y,Recovered,78,M,2024
+FAERS_001256,1001255,ciprofloxacin,Tendon rupture,Y,Hospitalization,50,F,2025
+FAERS_001257,1001256,Prinivil,Angioedema,Y,Recovered,95,F,2023
+FAERS_001258,1001257,ibuprofen,Angioedema,Y,Life-threatening,73,F,2024
+FAERS_001259,1001258,ciprofloxacin,Tendon rupture,Y,Hospitalization,75,M,2025
+FAERS_001260,1001259,clopidogrel,Rash,N,Recovered,81,M,2023
+FAERS_001261,1001260,metformin,Nausea,N,Recovered,61,F,2021
+FAERS_001262,1001261,Xarelto,Myalgia,N,Recovered,88,F,2024
+FAERS_001263,1001262,Glucophage,Rash,N,Recovered,53,M,2024
+FAERS_001264,1001263,metformin,Acute kidney injury,Y,Recovered,87,F,2022
+FAERS_001265,1001264,Advil,Rash,N,Recovered,51,M,2025
+FAERS_001266,1001265,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,55,M,2024
+FAERS_001267,1001266,apixaban,Nausea,Y,Life-threatening,45,F,2021
+FAERS_001268,1001267,levofloxacin,Tendon rupture,N,Recovered,75,M,2024
+FAERS_001269,1001268,Lipitor,Myalgia,N,Recovered,64,UNK,2025
+FAERS_001270,1001269,canagliflozin,Angioedema,Y,Other serious,65,M,2024
+FAERS_001271,1001270,Advil,Dizziness,Y,Recovered,55,M,2022
+FAERS_001272,1001271,Xarelto,Gastrointestinal haemorrhage,Y,Hospitalization,67,F,2023
+FAERS_001273,1001272,Advil,Alanine aminotransferase increased,N,Recovered,50,F,2024
+FAERS_001274,1001273,rosuvastatin,Rhabdomyolysis,Y,Hospitalization,64,F,2024
+FAERS_001275,1001274,Prinivil,Rash,N,Recovered,46,F,2025
+FAERS_001276,1001275,rivaroxaban,Hepatic failure,Y,Life-threatening,71,M,2024
+FAERS_001277,1001276,apixaban,Gastrointestinal haemorrhage,Y,Life-threatening,58,M,2022
+FAERS_001278,1001277,Xarelto,Rash,N,Recovered,59,F,2021
+FAERS_001279,1001278,paracetamol,Headache,N,Recovered,47,M,2021
+FAERS_001280,1001279,Jardiance,Dizziness,N,Recovered,80,F,2023
+FAERS_001281,1001280,Lipitor,Myalgia,Y,Hospitalization,74,F,2023
+FAERS_001282,1001281,Advil,Myalgia,N,Recovered,37,F,2021
+FAERS_001283,1001282,rivaroxaban,Diabetic ketoacidosis,Y,Life-threatening,62,M,2021
+FAERS_001284,1001283,ibuprofen,Hypoglycaemia,N,Recovered,63,F,2024
+FAERS_001285,1001284,ciprofloxacin,Diabetic ketoacidosis,Y,Other serious,62,F,2025
+FAERS_001286,1001285,rivaroxaban,Gastrointestinal haemorrhage,Y,Other serious,62,F,2024
+FAERS_001287,1001286,Xarelto,Gastrointestinal haemorrhage,Y,Hospitalization,54,F,2024
+FAERS_001288,1001287,Advil,Hypoglycaemia,Y,Hospitalization,47,F,2025
+FAERS_001289,1001288,Zocor,Alanine aminotransferase increased,N,Recovered,34,M,2022
+FAERS_001290,1001289,Advil,Fatigue,Y,Hospitalization,80,M,2021
+FAERS_001291,1001290,Lipitor,Rash,N,Recovered,70,M,2023
+FAERS_001292,1001291,paracetamol,Rhabdomyolysis,Y,Hospitalization,67,M,2022
+FAERS_001293,1001292,Advil,Fatigue,N,Recovered,67,M,2022
+FAERS_001294,1001293,Advil,Hypoglycaemia,N,Recovered,56,M,2024
+FAERS_001295,1001294,ibuprofen,Alanine aminotransferase increased,N,Recovered,33,F,2023
+FAERS_001296,1001295,empagliflozin,Diabetic ketoacidosis,Y,Hospitalization,44,F,2022
+FAERS_001297,1001296,Prinivil,Angioedema,Y,Other serious,74,M,2023
+FAERS_001298,1001297,Prinivil,Diabetic ketoacidosis,Y,Other serious,67,F,2024
+FAERS_001299,1001298,Tylenol,Headache,N,Recovered,63,M,2022
+FAERS_001300,1001299,Zocor,Dizziness,N,Recovered,52,F,2024
+FAERS_001301,1001300,paracetamol,Tendon rupture,N,Recovered,62,M,2023
+FAERS_001302,1001301,Cipro,Fatigue,N,Recovered,39,M,2021
+FAERS_001303,1001302,Invokana,Diabetic ketoacidosis,Y,Life-threatening,54,F,2025
+FAERS_001304,1001303,apixaban,Gastrointestinal haemorrhage,Y,Hospitalization,29,M,2025
+FAERS_001305,1001304,Lipitor,Myalgia,Y,Life-threatening,52,F,2025
+FAERS_001306,1001305,Xarelto,Rash,N,Recovered,63,M,2022
+FAERS_001307,1001306,Eliquis,Gastrointestinal haemorrhage,Y,Hospitalization,40,UNK,2022
+FAERS_001308,1001307,levofloxacin,Nausea,N,Recovered,69,F,2024
+FAERS_001309,1001308,clopidogrel,Headache,N,Recovered,68,M,2024
+FAERS_001310,1001309,metformin,Acute kidney injury,Y,Hospitalization,56,F,2025
+FAERS_001311,1001310,Cipro,Gastrointestinal haemorrhage,Y,Recovered,65,F,2023
+FAERS_001312,1001311,Glucophage,Gastrointestinal haemorrhage,Y,Life-threatening,68,F,2021
+FAERS_001313,1001312,rosuvastatin,Hypoglycaemia,Y,Recovered,67,M,2025
+FAERS_001314,1001313,Levaquin,Alanine aminotransferase increased,N,Recovered,54,F,2022
+FAERS_001315,1001314,clopidogrel,Acute kidney injury,N,Recovered,91,F,2024
+FAERS_001316,1001315,simvastatin,Rhabdomyolysis,Y,Other serious,76,M,2025
+FAERS_001317,1001316,Tylenol,Nausea,N,Recovered,58,F,2022
+FAERS_001318,1001317,Prinivil,Hepatic failure,Y,Hospitalization,46,F,2024
+FAERS_001319,1001318,empagliflozin,Diabetic ketoacidosis,Y,Other serious,82,F,2024
+FAERS_001320,1001319,Advil,Fatigue,N,Recovered,57,F,2023
+FAERS_001321,1001320,lisinopril,Angioedema,Y,Other serious,73,F,2021
+FAERS_001322,1001321,metformin,Gastrointestinal haemorrhage,Y,Recovered,79,F,2024
+FAERS_001323,1001322,canagliflozin,Alanine aminotransferase increased,N,Recovered,65,M,2023
+FAERS_001324,1001323,Cipro,Angioedema,Y,Hospitalization,52,F,2024
+FAERS_001325,1001324,Jardiance,Nausea,N,Recovered,52,M,2023
+FAERS_001326,1001325,Jardiance,Headache,Y,Other serious,75,M,2022
+FAERS_001327,1001326,Advil,Tendon rupture,N,Recovered,55,M,2022
+FAERS_001328,1001327,Jardiance,Diabetic ketoacidosis,Y,Hospitalization,47,M,2024
+FAERS_001329,1001328,atorvastatin,Tendon rupture,N,Recovered,35,M,2024
+FAERS_001330,1001329,Prinivil,Fatigue,N,Recovered,67,F,2021
+FAERS_001331,1001330,Lipitor,Dizziness,N,Recovered,85,F,2025
+FAERS_001332,1001331,ibuprofen,Headache,N,Recovered,61,F,2022
+FAERS_001333,1001332,Plavix,Rhabdomyolysis,Y,Recovered,74,M,2025
+FAERS_001334,1001333,Cipro,Alanine aminotransferase increased,N,Recovered,64,UNK,2022
+FAERS_001335,1001334,Tylenol,Hypoglycaemia,N,Recovered,40,F,2022
+FAERS_001336,1001335,Cipro,Tendon rupture,N,Recovered,71,F,2023
+FAERS_001337,1001336,Crestor,Diabetic ketoacidosis,Y,Hospitalization,62,F,2023
+FAERS_001338,1001337,Zocor,Headache,N,Recovered,71,F,2023
+FAERS_001339,1001338,Glucophage,Dizziness,N,Recovered,53,M,2022
+FAERS_001340,1001339,atorvastatin,Angioedema,Y,Hospitalization,53,F,2022
+FAERS_001341,1001340,Prinivil,Diabetic ketoacidosis,Y,Recovered,55,F,2023
+FAERS_001342,1001341,simvastatin,Rhabdomyolysis,Y,Other serious,60,M,2024
+FAERS_001343,1001342,empagliflozin,Acute kidney injury,Y,Hospitalization,49,F,2023
+FAERS_001344,1001343,Prinivil,Rash,N,Recovered,56,M,2024
+FAERS_001345,1001344,ibuprofen,Tendon rupture,Y,Hospitalization,69,M,2024
+FAERS_001346,1001345,ibuprofen,Diabetic ketoacidosis,Y,Life-threatening,95,M,2025
+FAERS_001347,1001346,Levaquin,Dizziness,N,Recovered,79,F,2024
+FAERS_001348,1001347,Cipro,Fatigue,Y,Recovered,69,F,2024
+FAERS_001349,1001348,Advil,Diabetic ketoacidosis,Y,Life-threatening,63,F,2025
+FAERS_001350,1001349,Levaquin,Myalgia,N,Recovered,78,M,2023
+FAERS_001351,1001350,canagliflozin,Rhabdomyolysis,Y,Recovered,53,M,2022
+FAERS_001352,1001351,metformin,Nausea,N,Recovered,45,M,2023
+FAERS_001353,1001352,Invokana,Diabetic ketoacidosis,Y,Hospitalization,85,M,2023
+FAERS_001354,1001353,Tylenol,Headache,Y,Hospitalization,83,M,2021
+FAERS_001355,1001354,atorvastatin,Gastrointestinal haemorrhage,Y,Hospitalization,70,M,2022
+FAERS_001356,1001355,Eliquis,Acute kidney injury,N,Recovered,68,M,2024
+FAERS_001357,1001356,Eliquis,Gastrointestinal haemorrhage,Y,Life-threatening,52,M,2022
+FAERS_001358,1001357,Cipro,Tendon rupture,N,Recovered,64,M,2023
+FAERS_001359,1001358,Plavix,Dizziness,N,Recovered,57,F,2023
+FAERS_001360,1001359,paracetamol,Alanine aminotransferase increased,Y,Hospitalization,53,M,2023
+FAERS_001361,1001360,Advil,Dizziness,Y,Life-threatening,68,M,2023
+FAERS_001362,1001361,Lipitor,Rhabdomyolysis,Y,Life-threatening,51,F,2022
+FAERS_001363,1001362,levofloxacin,Nausea,Y,Hospitalization,57,F,2021
+FAERS_001364,1001363,ciprofloxacin,Tendon rupture,Y,Hospitalization,78,M,2024
+FAERS_001365,1001364,Cipro,Diabetic ketoacidosis,Y,Recovered,70,M,2025
+FAERS_001366,1001365,simvastatin,Fatigue,N,Recovered,43,M,2023
+FAERS_001367,1001366,Advil,Hypoglycaemia,N,Recovered,71,M,2022
+FAERS_001368,1001367,Advil,Angioedema,Y,Hospitalization,77,M,2023
+FAERS_001369,1001368,atorvastatin,Myalgia,Y,Life-threatening,62,UNK,2024
+FAERS_001370,1001369,Prinivil,Angioedema,Y,Hospitalization,42,F,2023
+FAERS_001371,1001370,Plavix,Rash,N,Recovered,88,F,2024
+FAERS_001372,1001371,ibuprofen,Fatigue,N,Recovered,78,F,2023
+FAERS_001373,1001372,Plavix,Rash,Y,Hospitalization,67,M,2025
+FAERS_001374,1001373,empagliflozin,Rash,N,Recovered,50,M,2023
+FAERS_001375,1001374,Lipitor,Rash,N,Recovered,70,F,2024
+FAERS_001376,1001375,clopidogrel,Hepatic failure,Y,Life-threatening,75,F,2025
+FAERS_001377,1001376,Glucophage,Rash,N,Recovered,72,M,2025
+FAERS_001378,1001377,Prinivil,Angioedema,Y,Recovered,37,F,2024
+FAERS_001379,1001378,metformin,Gastrointestinal haemorrhage,Y,Life-threatening,68,M,2021
+FAERS_001380,1001379,Eliquis,Hypoglycaemia,N,Recovered,66,M,2023
+FAERS_001381,1001380,Xarelto,Headache,Y,Other serious,66,F,2022
+FAERS_001382,1001381,canagliflozin,Acute kidney injury,N,Recovered,46,M,2024
+FAERS_001383,1001382,paracetamol,Alanine aminotransferase increased,Y,Hospitalization,47,F,2025
+FAERS_001384,1001383,Plavix,Gastrointestinal haemorrhage,Y,Other serious,82,F,2024
+FAERS_001385,1001384,rivaroxaban,Rhabdomyolysis,Y,Hospitalization,73,M,2023
+FAERS_001386,1001385,rosuvastatin,Myalgia,N,Recovered,54,F,2024
+FAERS_001387,1001386,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,81,F,2024
+FAERS_001388,1001387,Jardiance,Gastrointestinal haemorrhage,Y,Recovered,79,M,2023
+FAERS_001389,1001388,Cipro,Tendon rupture,N,Recovered,60,F,2022
+FAERS_001390,1001389,Glucophage,Alanine aminotransferase increased,N,Recovered,50,F,2024
+FAERS_001391,1001390,Invokana,Hypoglycaemia,N,Recovered,48,F,2024
+FAERS_001392,1001391,Lipitor,Alanine aminotransferase increased,Y,Other serious,82,F,2024
+FAERS_001393,1001392,Prinivil,Alanine aminotransferase increased,N,Recovered,53,M,2022
+FAERS_001394,1001393,Cipro,Rhabdomyolysis,Y,Hospitalization,63,F,2023
+FAERS_001395,1001394,Zocor,Gastrointestinal haemorrhage,Y,Hospitalization,60,F,2025
+FAERS_001396,1001395,simvastatin,Rhabdomyolysis,Y,Recovered,72,F,2022
+FAERS_001397,1001396,Tylenol,Acute kidney injury,N,Recovered,48,F,2023
+FAERS_001398,1001397,Glucophage,Acute kidney injury,N,Recovered,63,M,2024
+FAERS_001399,1001398,Jardiance,Diabetic ketoacidosis,Y,Recovered,28,F,2024
+FAERS_001400,1001399,Lipitor,Myalgia,N,Recovered,68,M,2023
+FAERS_001401,1001400,Jardiance,Diabetic ketoacidosis,Y,Recovered,80,F,2023
+FAERS_001402,1001401,Plavix,Gastrointestinal haemorrhage,Y,Hospitalization,34,F,2025
+FAERS_001403,1001402,Advil,Gastrointestinal haemorrhage,Y,Recovered,47,F,2025
+FAERS_001404,1001403,rivaroxaban,Nausea,N,Recovered,76,M,2022
+FAERS_001405,1001404,Cipro,Rash,N,Recovered,66,M,2023
+FAERS_001406,1001405,Glucophage,Hypoglycaemia,Y,Hospitalization,68,F,2024
+FAERS_001407,1001406,Prinivil,Rhabdomyolysis,Y,Recovered,85,F,2025
+FAERS_001408,1001407,Tylenol,Hypoglycaemia,N,Recovered,56,M,2023
+FAERS_001409,1001408,Cipro,Tendon rupture,N,Recovered,74,F,2023
+FAERS_001410,1001409,simvastatin,Diabetic ketoacidosis,Y,Hospitalization,60,M,2022
+FAERS_001411,1001410,clopidogrel,Rhabdomyolysis,Y,Recovered,57,M,2024
+FAERS_001412,1001411,Cipro,Rhabdomyolysis,Y,Life-threatening,22,F,2023
+FAERS_001413,1001412,Xarelto,Hypoglycaemia,N,Recovered,53,M,2025
+FAERS_001414,1001413,simvastatin,Dizziness,N,Recovered,41,F,2024
+FAERS_001415,1001414,Levaquin,Tendon rupture,N,Recovered,63,M,2024
+FAERS_001416,1001415,apixaban,Alanine aminotransferase increased,N,Recovered,85,M,2025
+FAERS_001417,1001416,empagliflozin,Myalgia,Y,Recovered,68,M,2023
+FAERS_001418,1001417,Glucophage,Hypoglycaemia,N,Recovered,46,F,2024
+FAERS_001419,1001418,canagliflozin,Diabetic ketoacidosis,Y,Other serious,64,F,2023
+FAERS_001420,1001419,levofloxacin,Hepatic failure,Y,Recovered,71,M,2025
+FAERS_001421,1001420,Levaquin,Nausea,Y,Hospitalization,48,M,2025
+FAERS_001422,1001421,Zocor,Tendon rupture,N,Recovered,48,M,2024
+FAERS_001423,1001422,ciprofloxacin,Tendon rupture,N,Recovered,55,M,2024
+FAERS_001424,1001423,clopidogrel,Tendon rupture,N,Recovered,56,M,2025
+FAERS_001425,1001424,rosuvastatin,Myalgia,N,Recovered,61,M,2024
+FAERS_001426,1001425,ciprofloxacin,Rhabdomyolysis,Y,Hospitalization,79,M,2025
+FAERS_001427,1001426,clopidogrel,Diabetic ketoacidosis,Y,Hospitalization,45,F,2025
+FAERS_001428,1001427,ibuprofen,Headache,N,Recovered,57,F,2021
+FAERS_001429,1001428,Invokana,Diabetic ketoacidosis,Y,Hospitalization,74,F,2021
+FAERS_001430,1001429,Crestor,Alanine aminotransferase increased,N,Recovered,63,M,2025
+FAERS_001431,1001430,canagliflozin,Hypoglycaemia,Y,Hospitalization,54,M,2024
+FAERS_001432,1001431,clopidogrel,Gastrointestinal haemorrhage,Y,Hospitalization,57,F,2022
+FAERS_001433,1001432,canagliflozin,Diabetic ketoacidosis,Y,Other serious,77,F,2023
+FAERS_001434,1001433,rivaroxaban,Gastrointestinal haemorrhage,Y,Recovered,77,M,2023
+FAERS_001435,1001434,rivaroxaban,Rash,N,Recovered,57,F,2024
+FAERS_001436,1001435,Xarelto,Gastrointestinal haemorrhage,Y,Life-threatening,67,M,2024
+FAERS_001437,1001436,empagliflozin,Rhabdomyolysis,Y,Hospitalization,61,M,2021
+FAERS_001438,1001437,apixaban,Acute kidney injury,N,Recovered,60,F,2023
+FAERS_001439,1001438,Jardiance,Nausea,N,Recovered,62,F,2024
+FAERS_001440,1001439,Jardiance,Hepatic failure,Y,Recovered,75,F,2023
+FAERS_001441,1001440,levofloxacin,Hepatic failure,Y,Recovered,95,M,2024
+FAERS_001442,1001441,simvastatin,Hypoglycaemia,N,Recovered,46,M,2022
+FAERS_001443,1001442,Xarelto,Nausea,Y,Hospitalization,53,M,2024
+FAERS_001444,1001443,Zocor,Fatigue,N,Recovered,67,F,2025
+FAERS_001445,1001444,Invokana,Rhabdomyolysis,Y,Life-threatening,59,M,2024
+FAERS_001446,1001445,Zocor,Fatigue,N,Recovered,68,M,2025
+FAERS_001447,1001446,levofloxacin,Nausea,Y,Hospitalization,45,F,2023
+FAERS_001448,1001447,rivaroxaban,Myalgia,N,Recovered,40,F,2022
+FAERS_001449,1001448,Xarelto,Nausea,N,Recovered,42,F,2025
+FAERS_001450,1001449,ibuprofen,Fatigue,Y,Hospitalization,52,M,2025
+FAERS_001451,1000000,apixaban,Fatigue,N,Recovered,64,F,2023
+FAERS_001452,1000001,simvastatin,Nausea,N,Recovered,59,M,2023
+FAERS_001453,1000002,lisinopril,Angioedema,Y,Hospitalization,47,F,2025
+FAERS_001454,1000003,canagliflozin,Diabetic ketoacidosis,Y,Life-threatening,91,M,2024
+FAERS_001455,1000004,levofloxacin,Tendon rupture,N,Recovered,54,F,2024
+FAERS_001456,1000005,levofloxacin,Tendon rupture,Y,Recovered,63,F,2024
+FAERS_001457,1000006,Glucophage,Fatigue,Y,Recovered,46,F,2023
+FAERS_001458,1000007,Levaquin,Rhabdomyolysis,Y,Life-threatening,63,M,2022
+FAERS_001459,1000008,Advil,Hypoglycaemia,N,Recovered,68,F,2021
+FAERS_001460,1000009,Prinivil,Hepatic failure,Y,Other serious,49,F,2023
+FAERS_001461,1000010,Glucophage,Rhabdomyolysis,Y,Hospitalization,52,M,2025
+FAERS_001462,1000011,Eliquis,Gastrointestinal haemorrhage,Y,Recovered,63,M,2022
+FAERS_001463,1000012,ciprofloxacin,Tendon rupture,Y,Other serious,59,M,2024
+FAERS_001464,1000013,Prinivil,Angioedema,Y,Hospitalization,45,UNK,2024
+FAERS_001465,1000014,paracetamol,Nausea,Y,Hospitalization,47,M,2025
+FAERS_001466,1000015,Advil,Rhabdomyolysis,Y,Hospitalization,67,M,2024
+FAERS_001467,1000016,Lipitor,Dizziness,N,Recovered,30,M,2024
+FAERS_001468,1000017,Plavix,Gastrointestinal haemorrhage,Y,Hospitalization,64,F,2024
+FAERS_001469,1000018,Lipitor,Rhabdomyolysis,Y,Recovered,77,M,2021
+FAERS_001470,1000019,ibuprofen,Rhabdomyolysis,Y,Life-threatening,79,M,2023
+FAERS_001471,1000020,rosuvastatin,Nausea,N,Recovered,50,F,2023
+FAERS_001472,1000021,simvastatin,Acute kidney injury,Y,Other serious,69,M,2024
+FAERS_001473,1000022,lisinopril,Tendon rupture,N,Recovered,52,F,2021
+FAERS_001474,1000023,Levaquin,Fatigue,Y,Hospitalization,63,M,2024
+FAERS_001475,1000024,paracetamol,Hypoglycaemia,Y,Hospitalization,49,M,2025
+FAERS_001476,1000025,atorvastatin,Myalgia,Y,Hospitalization,42,M,2022
+FAERS_001477,1000026,Invokana,Rash,Y,Recovered,52,M,2022
+FAERS_001478,1000027,levofloxacin,Tendon rupture,N,Recovered,64,M,2023
+FAERS_001479,1000028,canagliflozin,Rash,Y,Recovered,47,M,2025
+FAERS_001480,1000029,paracetamol,Tendon rupture,N,Recovered,79,F,2025
+FAERS_001481,1000030,Levaquin,Tendon rupture,N,Recovered,79,M,2023
+FAERS_001482,1000031,Lipitor,Myalgia,Y,Recovered,75,F,2022
+FAERS_001483,1000032,ibuprofen,Myalgia,N,Recovered,55,M,2025
+FAERS_001484,1000033,Crestor,Rhabdomyolysis,Y,Hospitalization,52,M,2023
+FAERS_001485,1000034,Xarelto,Gastrointestinal haemorrhage,Y,Recovered,71,M,2022
+FAERS_001486,1000035,simvastatin,Myalgia,Y,Hospitalization,78,F,2021
+FAERS_001487,1000036,canagliflozin,Diabetic ketoacidosis,Y,Recovered,53,M,2024
+FAERS_001488,1000037,levofloxacin,Tendon rupture,N,Recovered,69,M,2022
+FAERS_001489,1000038,Prinivil,Angioedema,Y,Life-threatening,67,F,2022
+FAERS_001490,1000039,Cipro,Headache,N,Recovered,64,F,2023
+FAERS_001491,1000040,lisinopril,Rhabdomyolysis,Y,Hospitalization,60,M,2024
+FAERS_001492,1000041,Invokana,Dizziness,Y,Life-threatening,54,M,2025
+FAERS_001493,1000042,levofloxacin,Nausea,N,Recovered,33,M,2023
+FAERS_001494,1000043,clopidogrel,Alanine aminotransferase increased,Y,Hospitalization,62,F,2022
+FAERS_001495,1000044,lisinopril,Rash,N,Recovered,95,F,2022
+FAERS_001496,1000045,atorvastatin,Rhabdomyolysis,Y,Hospitalization,73,M,2022
+FAERS_001497,1000046,ibuprofen,Dizziness,N,Recovered,75,M,2024
+FAERS_001498,1000047,apixaban,Angioedema,Y,Hospitalization,71,F,2025
+FAERS_001499,1000048,Glucophage,Rash,N,Recovered,55,M,2024
+FAERS_001500,1000049,apixaban,Hepatic failure,Y,Hospitalization,62,M,2021

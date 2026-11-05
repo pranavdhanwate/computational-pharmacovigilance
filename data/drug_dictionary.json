@@ -1,0 +1,17 @@
+{
+  "lipitor": "atorvastatin",
+  "crestor": "rosuvastatin",
+  "zocor": "simvastatin",
+  "glucophage": "metformin",
+  "jardiance": "empagliflozin",
+  "invokana": "canagliflozin",
+  "prinivil": "lisinopril",
+  "zestril": "lisinopril",
+  "cipro": "ciprofloxacin",
+  "levaquin": "levofloxacin",
+  "tylenol": "paracetamol",
+  "advil": "ibuprofen",
+  "plavix": "clopidogrel",
+  "eliquis": "apixaban",
+  "xarelto": "rivaroxaban"
+}
